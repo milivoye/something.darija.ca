@@ -1,0 +1,243 @@
+html, body {
+	padding:0;
+	margin:0;
+	height:99%;
+	font-family:sans-serif;
+	color:#555;
+}
+
+a {
+	color:inherit;
+} 
+
+a.brand {
+	display:block;
+	text-align:center;
+	margin:15pt auto 15pt auto;
+	text-decoration:none;
+}
+a.brand img#logo {
+	display:inline-block;
+}
+a.brand h2 {
+	font-size:15pt;
+	margin-top:10pt;
+	padding-top:10pt;
+}
+
+img.menu {
+	display:none;
+}
+
+nav[role=navigation] {
+	position:fixed;
+	display:inline-block;
+  	top:0;
+  	bottom:0;
+	float:left;
+	width:20%;
+	/*outline:dashed 1px cyan;*/
+	text-align:center;
+	-webkit-transition: height .5s;
+   transition: height .5s;
+   background: -webkit-linear-gradient(rgba(255,255,255,1),rgba(255,255,255,0)); /* For Safari 5.1 to 6.0 */
+   background: -o-linear-gradient(rgba(255,255,255,1),rgba(255,255,255,0)); /* For Opera 11.1 to 12.0 */
+   background: -moz-linear-gradient(rgba(255,255,255,1),rgba(255,255,255,0)); /* For Firefox 3.6 to 15 */
+   background: linear-gradient(rgba(255,255,255,1),rgba(255,255,255,0)); /* Standard syntax */
+}
+nav[role=navigation] ul {
+	display:inline-block;
+	background:#FFF;
+	list-style-type:none;
+   margin:0;
+   padding:0 0 5pt 0;
+   text-align:left;
+}	
+nav[role=navigation] ul li {
+	display:block;
+	margin:2.5pt;
+}
+nav[role=navigation] ul li a {
+	font-size:12.5pt;
+	white-space:nowrap;
+	text-decoration:none;
+}
+nav[role=navigation] ul li a:hover {
+	text-decoration:underline;
+}
+nav[role=navigation] ul li.divider {
+	display:none;
+}	
+nav[role=navigation] ul li.act {
+	color:#000 !important;
+	text-decoration:underline;
+}
+#navtrans {
+  display:none;
+  height:10pt;
+  width:100%;
+  background: -webkit-linear-gradient(rgba(255,255,255,1),rgba(255,255,255,0)); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(rgba(255,255,255,1),rgba(255,255,255,0)); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(rgba(255,255,255,1),rgba(255,255,255,0)); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(rgba(255,255,255,1),rgba(255,255,255,0)); /* Standard syntax */
+}
+
+main[role=main] {
+	float:right;
+	width:80%;
+}
+main[role=main] header[role=banner] {
+	margin:10pt;
+}
+
+main[role=main] header[role=banner] h1 {
+	display:none;
+}
+
+h1 {
+	margin:20pt 0 1pt 0;
+}
+h2 {}
+
+main[role=main] section#gallery {
+	margin:15pt 22.5pt 10pt 10pt;
+}
+main[role=main] section#gallery h3 { display:none !important; }	
+main[role=main] section#gallery div {}	
+main[role=main] section#gallery div img { cursor:pointer; }
+
+main[role=main] section#main {
+	margin:10pt;
+}
+	
+main[role=main] article[role=article] {
+	margin:10pt;
+}
+
+main[role=main] aside[role=complementary] {
+	margin:40pt 10pt 10pt 10pt;
+}
+main[role=main] aside[role=complementary] p {
+	text-align:left !important;
+}
+main[role=main] aside[role=complementary] div.images {
+	margin:1pt 0 2.5pt 0;
+}
+main[role=main] aside[role=complementary] div.images img {
+	cursor:pointer;
+}
+
+footer[role=contentinfo] {
+	margin:50px 15px 25px 15px;
+}
+
+small {}
+
+.quote { display:inline-block; }
+.signature {
+	margin-top:-10pt;
+	text-align:right;
+}
+
+@media only screen and (min-width:839px) {
+	nav[role=navigation] {
+		top:15pt;
+	}
+}
+
+@media only screen and (max-width:840px) {    
+	nav[role=navigation] {
+	  	position:fixed;
+	  	top:0;
+	  	bottom:auto;
+	  	left:0;
+	  	right:0;
+		float:left;
+		width:100%;
+		z-index:999;
+		/*outline:dotted 1px magenta;*/
+	}	
+	nav[role=navigation] ul li.divider {
+		display:inline-block;
+		margin:0;
+	}
+	#navtrans {
+		display:block;		
+	}
+	
+   a.brand {}
+	a.brand img#logo {
+		float:left;
+		position:absolute;
+		top:7.5pt;
+		left:7.5pt;
+	}
+	a.brand h2 {}
+	
+	img.menu {
+		display:inline-block;
+		float:right;
+		position:absolute;
+		top:0pt;
+		right:2.5pt;
+		width:15pt;
+		height:15pt;
+		background-color:rgba(255,255,255,.75);
+		border-radius:25pt;
+		padding:10pt;
+		background-origin:padding-box;
+	}
+	
+	nav[role=navigation] ul {
+		list-style-type:none;
+	    margin:10pt 7.5pt 0 7.5pt !important;
+	    padding:0;
+	}		
+	nav[role=navigation] ul li {
+		display:inline-block;
+		margin:2.5pt;
+	}	
+	
+	main[role=main] {
+		float:left;
+		width:100%;
+		position:absolute;
+		top:35pt;
+		bottom:0;
+		left:0;
+		right:0;
+		margin-bottom:2.5pt; /*???*/
+	}
+	
+	main[role=main] section#gallery {
+		margin:22.5pt 10pt 10pt 10pt;
+	}
+	
+	div.item { cursor:pointer; }
+	
+	footer[role=contentinfo] {
+		text-align:center;
+	}
+}
+
+@media only screen and (max-width:740px) {
+	main[role=main] {
+		top:50pt;
+	}
+	img.menu {/*
+		top:10pt;
+		right:12.5pt;
+		width:32.5pt;
+		height:32.5pt;
+	*/}
+}
+
+@media only screen and (max-width:450px) {
+	main[role=main] {
+		top:110pt;
+	}
+	img.menu {
+		width:30pt;
+		height:30pt;
+	}
+}

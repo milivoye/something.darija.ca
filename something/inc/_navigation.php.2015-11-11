@@ -1,0 +1,15 @@
+	<nav id="navigation" role="navigation">
+		<div id="navspan"></div>
+		<ul class="navbar">
+		<?php
+		foreach ($nav as $n) {
+			echo '<li';
+			if ($n[1] == $title) { echo ' class="act"'; }
+			echo '><a href="' . $n[0] . '">' . $n[1] . '</a></li>';
+			if ($n !== end($nav)) { echo '<li class="divider">&middot;</li>'; }
+		}
+		?>
+		</ul>
+		<img class="menu" src="/img/menu.png" />
+		<div id="navtrans"></div>
+	</nav>

@@ -1,0 +1,50 @@
+<?php
+$title = 'Geometria';
+$description = '';
+
+$gallery = array();
+	$gallery[] = array(1659, 2033, 'geometry_today/8771.jpg');
+	$gallery[] = array(1456, 1810, 'geometry_today/8762.jpg');
+	$gallery[] = array(1646, 2036, 'geometry_today/8776.jpg');
+	$gallery[] = array(1850, 1860, 'geometry_today/8779.jpg');
+	$gallery[] = array(1558, 1561, 'geometry_today/8789.jpg');
+	$gallery[] = array(1745, 1755, 'geometry_today/8792.jpg');
+	$gallery[] = array(2019, 2026, 'geometry_today/8793.jpg');
+	$gallery[] = array(1558, 2179, 'geometry_today/8773.jpg');
+	$gallery[] = array(1850, 1860, 'geometry_today/8779.jpg');
+	$gallery[] = array(3392, 2390, 'geometry_today/8797.jpg');
+	$gallery[] = array(2400, 1703, 'geometry_today/8808.jpg');
+	$gallery[] = array(2232, 1607, 'geometry_today/9010.jpg');
+	$gallery[] = array(2202, 2175, 'geometry_today/999.jpg');
+?>
+<?php include $_SERVER['DOCUMENT_ROOT'] . "/inc/_header.php"; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'] . "/inc/_navigation.php"; ?>
+
+<main role="main">	
+
+	<header role="banner">
+		<h1><?php echo str_replace(' ', '&nbsp;', $title); ?></h1>	
+		<!--h2>Podnaslov</h2-->
+	</header>				
+	
+    <section id="gallery">   
+	    <?php echo writeGalleryHTML($gallery); ?>
+	</section>
+		       
+	       
+	<article role="article">
+		<div class="quote">
+	    	<h3>&quot;There is no such thing as a painting about nothing.&quot;</h3>  
+	    	<h4 class="signature">Mark Rothko</h4>
+	    </div>
+	    <p>I think I finally got there with these paintings. They are very different from my previous work that has been more socially or politicfally engaged and shaped by the tensions I brought with me from my &quot;old country&quot;. These paintings are bringing me other satisfactions.</p>
+	    <p>I feel I can play more with shapes and geometry or colors. I would say there is no limit; like breaking the shapes of already framed pictures and giving the new dimensions to the painting or to the space. I found this very enjoyable and exciting.</p>
+	    <p>I never know where is it going to get me, and that makes me happy.</p>
+	</article>
+    
+    
+    <aside role="complementary">		
+		<h3>Secondary page content</h3>
+    	<p>Use the <code>aside</code> element if you need to include content that is not central to the focus of the page or is clearly of secondary importance.</p>				
+	</aside>
+		

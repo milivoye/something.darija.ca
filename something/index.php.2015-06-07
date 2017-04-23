@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<!-- Based on HTML5 Bones | http://html5bones.com -->
+
+<html lang="en">
+<head>
+	<meta charset="utf-8">	
+	<title>SOMETHING.darija.ca</title>	
+	<meta name="description" content="">
+	
+  <!-- Mobile-friendly viewport -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+   <!-- Style sheet link -->
+	<link href="/css/main.css" rel="stylesheet" media="all">
+	<script type="text/javascript" src="http://code.jquery.com/jquery-latest.js"></script>
+</head>
+<body>	
+	
+	<nav role="navigation">
+		<a class="brand">SOMETHING.darija.ca</a>	
+		<ul class="navbar">
+			<li><a href="#">Array 1</a></li>
+			<li><a href="#">Array 2</a></li>
+			<li><a href="#">Array 3</a></li>
+			<li><a href="#">Array 4</a></li>
+			<li><a href="#">Info</a></li>
+			<li><a href="#">Contact</a></li>
+		</ul>	
+	</nav>	
+	
+	<main role="main">	
+
+		<header role="banner">
+			<h1>Naslov</h1>	
+			<h2>Podnaslov</h2>
+		</header>			
+		
+	    <article role="gallery">
+		    <h2>Sub-heading</h2>    
+		    <ul>
+		      <li>List item</li>
+		      <li>List item</li>
+		      <li>List item</li>
+		      <li>List item</li>
+		    </ul>
+		</article>
+		       
+		<article role="paragraph">
+		    <h2>Sub-heading</h2>    
+		    <ol>
+		      <li>List item</li>
+		      <li>List item</li>
+		      <li>List item</li>
+		      <li>List item</li>
+		    </ol>
+		</article>
+	    
+	    <aside role="complementary">		
+			<h3>Secondary page content</h3>
+	    	<p>Use the <code>aside</code> element if you need to include content that is not central to the focus of the page or is clearly of secondary importance.</p>				
+		</aside>
+		
+		<footer role="contentinfo">
+			<div>Page footer content</div>
+			<small>Copyright &copy; <time datetime="2013">2013</time></small>		
+		</footer>
+
+	</main><!-- End primary page content -->	
+	
+</body>
+</html>

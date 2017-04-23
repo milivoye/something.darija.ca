@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<!-- Based on HTML5 Bones | http://html5bones.com -->
+
+<html lang="en">
+<head>
+	<meta charset="utf-8">	
+	<title>SOMETHING.darija.ca</title>	
+	<meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    
+    <link rel="apple-touch-icon" sizes="57x57" href="/favicon/apple-icon-57x57.png" />
+	<link rel="apple-touch-icon" sizes="60x60" href="/favicon/apple-icon-60x60.png" />
+	<link rel="apple-touch-icon" sizes="72x72" href="/favicon/apple-icon-72x72.png" />
+	<link rel="apple-touch-icon" sizes="76x76" href="/favicon/apple-icon-76x76.png" />
+	<link rel="apple-touch-icon" sizes="114x114" href="/favicon/apple-icon-114x114.png" />
+	<link rel="apple-touch-icon" sizes="120x120" href="/favicon/apple-icon-120x120.png" />
+	<link rel="apple-touch-icon" sizes="144x144" href="/favicon/apple-icon-144x144.png" />
+	<link rel="apple-touch-icon" sizes="152x152" href="/favicon/apple-icon-152x152.png" />
+	<link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-icon-180x180.png" />
+	<link rel="icon" type="image/png" sizes="192x192" href="/favicon/android-icon-192x192.png" />
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png" />
+	<link rel="icon" type="image/png" sizes="96x96" href="/favicon/favicon-96x96.png" />
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png" />
+    <link rel="shortcut icon" href="/favicon/favicon.ico">
+     
+    <link rel="stylesheet" href="/flex/jquery.flex-images.css" />
+    <style type="text/css">    	
+        .flex-images .item { overflow:visible !important; border:none !important; }
+        .flex-images .item img {}
+    </style>
+	
+  <!-- Mobile-friendly viewport -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+   <!-- Style sheet link -->
+	<link href="/css/main.css" rel="stylesheet" media="all">
+	<script type="text/javascript" src="http://code.jquery.com/jquery-latest.js"></script>
+    <script src="/flex/jquery.flex-images.min.js"></script>
+    <script type="text/javascript">
+    $(document).ready(function() {
+        $('.flex-images').flexImages({rowHeight:350, maxRows:5});
+     });
+    </script>
+</head>
+<body>	
+	
+	<nav role="navigation">
+		<a class="brand">SOMETHING.darija.ca</a>	
+		<ul class="navbar">
+			<li><a href="#">Array 1</a></li>
+			<li><a href="#">Array 2</a></li>
+			<li><a href="#">Array 3</a></li>
+			<li><a href="#">Array 4</a></li>
+			<li><a href="#">Info</a></li>
+			<li><a href="#">Contact</a></li>
+		</ul>	
+	</nav>	
+	
+	<main role="main">	
+
+		<header role="banner">
+			<h1>Naslov</h1>	
+			<h2>Podnaslov</h2>
+		</header>			
+		
+	    <article role="gallery">
+		    <h2>Sub-heading</h2>    
+		    <div style="max-width:99%; margin:0;" class="flex-images">
+	            <div class="item" data-w="1659" data-h="2033"><img src="img/geometry_today/8771.jpg"></div>
+	            <div class="item" data-w="1456" data-h="1810"><img src="img/geometry_today/8762.jpg"></div>
+	            <div class="item" data-w="1646" data-h="2036"><img src="img/geometry_today/8776.jpg"></div>
+	            <div class="item" data-w="1850" data-h="1860"><img src="img/geometry_today/8779.jpg"></div>
+	            <div class="item" data-w="1558" data-h="1561"><img src="img/geometry_today/8789.jpg"></div>
+	            <div class="item" data-w="1745" data-h="1755"><img src="img/geometry_today/8792.jpg"></div>
+	            <div class="item" data-w="2019" data-h="2026"><img src="img/geometry_today/8793.jpg"></div>
+	            <div class="item" data-w="1558" data-h="2179"><img src="img/geometry_today/8773.jpg"></div>
+	            <div class="item" data-w="1850" data-h="1860"><img src="img/geometry_today/8779.jpg"></div>
+	            <div class="item" data-w="3392" data-h="2390"><img src="img/geometry_today/8797.jpg"></div>
+	            <div class="item" data-w="2400" data-h="1703"><img src="img/geometry_today/8808.jpg"></div>
+	            <div class="item" data-w="2232" data-h="1607"><img src="img/geometry_today/9010.jpg"></div>
+	            <div class="item" data-w="2202" data-h="2175"><img src="img/geometry_today/999.jpg"></div>
+		    </div>
+		</article>
+		       
+		<article role="paragraph">
+			<div class="quote">
+		    	<h3>&quot;There is no such thing as a painting about nothing.&quot;</h3>  
+		    	<h4 class="signature">Mark Rothko</h4>
+		    </div>
+		    <p>I think I finally got there with these paintings. They are very different from my previous work that has been more socially or politicfally engaged and shaped by the tensions I brought with me from my &quot;old country&quot;. These paintings are bringing me other satisfactions.</p>
+		    <p>I feel I can play more with shapes and geometry or colors. I would say there is no limit; like breaking the shapes of already framed pictures and giving the new dimensions to the painting or to the space. I found this very enjoyable and exciting.</p>
+		    <p>I never know where is it going to get me, and that makes me happy.</p>
+		</article>
+	    
+	    <aside role="complementary">		
+			<h3>Secondary page content</h3>
+	    	<p>Use the <code>aside</code> element if you need to include content that is not central to the focus of the page or is clearly of secondary importance.</p>				
+		</aside>
+		
+		<footer role="contentinfo">
+			<div>Page footer content</div>
+			<small>Copyright &copy; <time datetime="2013">2013</time></small>		
+		</footer>
+
+	</main><!-- End primary page content -->	
+	
+</body>
+</html>
