@@ -34,8 +34,6 @@ $gallery = array();
 	</article>
     
    <!--
-   <aside role="complementary">		
-		<h3>Secondary page content</h3>
-    	<p>Use the <code>aside</code> element if you need to include content that is not central to the focus of the page or is clearly of secondary importance.</p>				
+   <aside role="complementary">
 	</aside>
 	-->

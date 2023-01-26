@@ -8,7 +8,7 @@ $maxCols = 3;
 $gallery = array();
 	$gallery[] = array(1024, 1024, 'testimony/01_srebrenica.jpg', '<a href=\'https://en.wikipedia.org/wiki/Srebrenica_massacre\' target=\'_blank\'>Srebrenica</a>');
 	$gallery[] = array(1024, 1024, 'testimony/02_banner.jpg', 'Banner');
-	$gallery[] = array(1024, 1024, 'testimony/03_war.jpg', 'War');
+	$gallery[] = array(1024, 1024, 'testimony/03_war.jpg', 'Silence');
 	$gallery[] = array(1024, 1024, 'testimony/04_religious.jpg', 'Religious');
 	$gallery[] = array(1024, 1024, 'testimony/05_politics.jpg', 'Politics');
 	$gallery[] = array(1024, 1024, 'testimony/06_pact.jpg', 'Pact');
@@ -149,9 +149,9 @@ $gallery = array();
 	</article>
     
     
-    <aside role="complementary">		
+    <aside role="complementary">
 		<h3>Exhibitions</h3>
     	<p>The Politics piece was exhibited in 2007 as "The First 100 Days" in a Shock Gallery, Art Clinic in Novi Sad, Serbia.</p>
-		<p>An exhibition with all the pieces was held in 2007 in a Small Gallery of ULUPUDS, Belgrade, Serbia. Gallery staff was afraid of nazi hooligans and kept the gallery doors locked and let in only those that looked like a decent folks.</p>				
+		<p>An exhibition with all the pieces was held in 2009 in a Small Gallery of ULUPUDS, Belgrade, Serbia. Gallery staff was afraid of nazi hooligans and kept the gallery doors locked and let in only those that looked like a decent folks.</p>
 	</aside>
-		
+    

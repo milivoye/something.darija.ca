@@ -2,8 +2,10 @@
 $title = 'No Exit';
 $description = '';
 
-$rowHeight = 450;
-$maxCols = 3;
+$rowHeight = 200;
+$maxCols = 6;
+//$rowHeight = 450;
+//$maxCols = 3;
 
 $gallery = array();
 	$gallery[] = array(671, 671, 'no_exit/0.0.jpg');
@@ -21,7 +23,13 @@ $gallery = array();
 	<header role="banner">
 		<h1><?php echo str_replace(' ', '&nbsp;', $title); ?></h1>	
 		<!--h2>Podnaslov</h2-->
-	</header>				
+	</header>
+
+    <section>
+        <div class="single">
+            <img src="/img/no_exit/no_exit.600.sq.gif" style="width:100%; max-width:600px;" />
+        </div>
+    </section>
 	
     <section id="gallery">   
 	    <?php echo writeGalleryHTML($gallery); ?>
@@ -48,6 +56,7 @@ $gallery = array();
 		   <img src="/img/no_exit/no_exit.3.jpg" data-w="480" data-h="640" alt="" />
 		   </div></p>
 			
-		<h3>Florence Biennale 2015</h3>
-		<p>I was invited by a selection jury to exhibit &ldquo;No Exit&rdquo; installation on Florence Biennale in Autumn of 2015. Unfortunately it was already too late to apply for financing aid, and too costly for me to pay for it from my pocket.</p>
+		<!--h3>Florence Biennale 2015</h3>
+		<p>I was invited by a selection jury to exhibit &ldquo;No Exit&rdquo; installation on Florence Biennale in Autumn of 2015. Unfortunately it was already too late to apply for financing aid, and too costly for me to pay for it from my pocket.</p-->
 	</aside>
+		

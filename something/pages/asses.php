@@ -28,31 +28,31 @@ $gallery = array();
 	<header role="banner">
 		<h1><?php echo str_replace(' ', '&nbsp;', $title); ?></h1>	
 		<!--h2>Podnaslov</h2-->
-	</header>				
+	</header>
 	
-    <section id="gallery">   
-	    <?php echo writeGalleryHTML($gallery); ?>
-	</section>		       
-	       
+	<section id="gallery">
+		<?php echo writeGalleryHTML($gallery); ?>
+	</section>
+	
 	<article role="article">
-		<p>Po svojoj suštini, bez obzira na spoljšnje manifestacije ili zavisnost od neke druge volje, guzica teži mestu. Skloni smo da ovu opštepoznatu činjenicu pravdamo lenjošću smatrajući da je guzica objekat koji nije spreman i sposoban da utiče na okruženje.<br />
-         U svom osnovnom stanju, guzica je čvrsto prirasla za "svoje mesto", tj. poziciju na koju polaže svoje guzno pravo iz čega proizilazi uobičajeni konzervativizam guzice - jednom zauzeto mesto se ne menja bez dobrih izgleda da se zauzme neko bolje, ili usled delovanja više sile.<br />
-         Ovi prelazi imaju odlike kretanja, ali je svaka primetna kretnja guzice zapravo prelaz između dva mesta u funkciji održanja i jačanja statike.<br />
-         Zauzimanje dobrog mesta je mera uspeha jedne guzice.<br />
-         Težnja guzice za zauzimanjem mesta možda se najbolje manifestuje u situacijama kada se, usled povoljnih društveno-političkih okolnosti, neka guzica nađe u prilici da zazume više od jednog mesta, tj. u fenomenu "sedenja na dve stolice".<br />
-         Ovo zauzimanje više mesta može da dovede do guzne shizofrenije.<br />
-         Shizofrena, raspeta guzica, težeći da ponovo uspostavi narušenu statiku, pokušava da zauzme i treće, četvrto itd. mesto mutirajući tako u hipertrofirani oblik - sveguzicu.</p>
+		<p>Po svojoj suštini, bez obzira na spoljšnje manifestacije ili zavisnost od neke druge volje, guzica teži mestu. Skloni smo da ovu opštepoznatu činjenicu pravdamo lenjošću smatrajući da je guzica objekat koji nije spreman i sposoban da utiče na okruženje.<br />U svom osnovnom stanju, guzica je čvrsto prirasla za "svoje mesto", tj. poziciju na koju polaže svoje guzno pravo iz čega proizilazi uobičajeni konzervativizam guzice - jednom zauzeto mesto se ne menja bez dobrih izgleda da se zauzme neko bolje, ili usled delovanja više sile.<br />
+		 Ovi prelazi imaju odlike kretanja, ali je svaka primetna kretnja guzice zapravo prelaz između dva mesta u funkciji održanja i jačanja statike.<br />
+		 Zauzimanje dobrog mesta je mera uspeha jedne guzice.<br />
+		 Težnja guzice za zauzimanjem mesta možda se najbolje manifestuje u situacijama kada se, usled povoljnih društveno-političkih okolnosti, neka guzica nađe u prilici da zazume više od jednog mesta, tj. u fenomenu "sedenja na dve stolice".<br />
+		 Ovo zauzimanje više mesta može da dovede do guzne shizofrenije.<br />
+		 Shizofrena, raspeta guzica, težeći da ponovo uspostavi narušenu statiku, pokušava da zauzme i treće, četvrto itd. mesto mutirajući tako u hipertrofirani oblik - sveguzicu.</p>
 	</article>
-    
-    
-    <aside role="complementary">		
+	
+	
+	<aside role="complementary">
 		<h3>Exhibition</h3>
-    	<p>Some photos from the Asses exhibition in the Small Gallery of ULUPUDS, Belgrade, Febryary 2010.</p>
+		<p>Some photos from the Asses exhibition in the Small Gallery of ULUPUDS, Belgrade, Febryary 2010.</p>
 		<p><div class="images">
-		   <img src="/img/asses/ex.2.jpg" data-w="1024" data-h="860" alt="" />
-		   <img src="/img/asses/ex.3.jpg" data-w="768" data-h="1024" alt="" />
-		   <img src="/img/asses/ex.4.jpg" data-w="1024" data-h="723" alt="" />
-		   <img src="/img/asses/ex.5.jpg" data-w="1024" data-h="720" alt="" />
-		   <img src="/img/asses/ex.6.jpg" data-w="1024" data-h="768" alt="" /></p>
+			<img src="/img/asses/ex.2.jpg" data-w="1024" data-h="860" alt="" />
+			<img src="/img/asses/ex.3.jpg" data-w="768" data-h="1024" alt="" />
+			<img src="/img/asses/ex.4.jpg" data-w="1024" data-h="723" alt="" />
+			<img src="/img/asses/ex.5.jpg" data-w="1024" data-h="720" alt="" />
+			<img src="/img/asses/ex.6.jpg" data-w="1024" data-h="768" alt="" />
+		</p>
 	</aside>
-		
+	
