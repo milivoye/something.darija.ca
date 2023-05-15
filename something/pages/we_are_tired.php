@@ -4,7 +4,8 @@ $description = '';
 
 $rowHeight = 640;
 $gallery = array();
-	$gallery[] = array(1530, 2048, 'we_are_tired/we_are_tired.jpg', '');
+	//$gallery[] = array(1530, 2048, 'we_are_tired/we_are_tired.jpg', '');
+	$gallery[] = array(1920, 1080, 'we_are_tired/msuv.jpg', '');
 ?>
 <?php include $_SERVER['DOCUMENT_ROOT'] . "/inc/_header.php"; ?>
 <?php include $_SERVER['DOCUMENT_ROOT'] . "/inc/_navigation.php"; ?>
@@ -22,7 +23,9 @@ $gallery = array();
 
 
 	<article role="article" class="article_single">
-		<p>We are Tired / acrylic on carpet 2x3m / 2021</p>
+		<!--p>We are Tired / acrylic on carpet 2x3m / 2021</p-->
+		<p>We are Tired / acrylic on carpet 2.4x3.1m / 2021<br/>
+		Museum of Contemporary Art of Vojvodina</p>
 	</article>
 
 	<!--
