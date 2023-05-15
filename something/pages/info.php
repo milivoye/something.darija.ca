@@ -93,7 +93,9 @@ $description = '';
     <article role="article" style="max-width:800px;">
         <p><i>Selected Group Exhibitions</i></p>
         <ul>
-            <li>2022 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Human Capital, Contemporary Calgary, curated by Tak Pham, Calgary, CA</li>
+            <li>2023 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Human Capital, Confederation Centre of the Arts, curated by Tak Pham, Charlottetown, CA</li>
+            <li>2022 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Milky Way, Museum of Contemporary Art of Vojvodina, Curated by Sanja Kojić Mladenov, Novi Sad, RS</li>
+            <li><span>2022</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Human Capital, Contemporary Calgary, curated by Tak Pham, Calgary, CA</li>
             <li><span>2022</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Northeast Southwest, Kulturstiftung des Bundes, curated by Irfan Hošić, Dresden, DE</li>
             <li><span>2022</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Smile of the Sphinx, Carlo Bilotti Museum, curated by Ilari Valbonesi, Rome, IT</li>
             <li><span>2022</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Art of Anti-War, curated by Ana Simona Zelenovic, Belgrade, RS</li>

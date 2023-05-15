@@ -7,7 +7,7 @@ if ((strtolower($_SERVER['HTTP_HOST']) == 'something.darija.ca') || (strtolower(
 
 $works = array();
 	$works[] = array('/i_krivi_i_duzni/', 'I krivi i dužni');
-	$works[] = array('/we_are_tired/', 'We are Tired');
+	$works[] = array('/tired/', 'Tired');
 	$works[] = array('/lets_get_lost/', 'Let\'s Get Lost');
 	$works[] = array('/minimal_consensus/', 'Minimal Consensus');
 	$works[] = array('/you_dont_have_to_be_right/', 'You Don\'t Have to Be Right');
