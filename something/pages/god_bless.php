@@ -1,5 +1,5 @@
 <?php
-$title = 'God Bless America';
+$title = 'God Bless';
 $description = '';
 
 $gallery = array();
@@ -27,7 +27,7 @@ $gallery = array();
 
 
 	<article role="article" class="article_single">
-		<p>God Bless America / art installation / 2019</p>
+		<p>God Bless / art installation / 2019</p>
 	</article>
 
 	<!--

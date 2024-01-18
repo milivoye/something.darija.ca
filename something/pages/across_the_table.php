@@ -1,4 +1,5 @@
 <?php
+/*
 $title = 'Across the Table';
 $description = '';
 

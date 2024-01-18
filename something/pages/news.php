@@ -15,6 +15,103 @@ $description = '';
 
 	<div class="article_single year">News</div>
 
+<div class="article_single year">2023</div>
+
+<article role="article" style="max-width:800px;">
+	<p class="news_title">CEED Feminisms 3 / Cell Project Space / London / UK / 11<sup>th</sup> November 2023</p>
+	<div class="news_img">
+		<img src="/img/news/CEED3.jpg" style="width:100%;" />
+	</div>
+	<p class="news_body">
+	Labour, diasporic experience and 'East' to 'West' migration with Lina Džuverović, Sanja Iveković, Tanja Ostojić, Darija Radaković and Selma Selman.<br/>
+		<a target="_blank" href="https://www.cellprojects.org/exhibitions/future">https://www.cellprojects.org/exhibitions/future</a></p>
+</article>
+
+<article role="article" style="max-width:800px;">
+	<p class="news_title">Što te nema (benefit) / Galerija Manifesto / Sarajevo / BA / 11<sup>th</sup> November 2023</p>
+	<div class="news_img">
+		<img src="/img/news/benefit.png" style="width:100%;" />
+	</div>
+	<p class="news_body">
+		Artists: Adela Jušić, Adna Muslija, Adnan Suljkanović, Adnan Šopović, Aida Šehović, Alma Gačanin, Amel Bešlagić, Amina Ahmetagić, Amina Horozić, Armin Durgut, Arnela Mahmutović, Benjamin Cengić, Bojan Stojcić, Darija Radaković, Enes Žuljević, Enrico Dagnino, Haris Gusinac, Ismar Cirkinagić, Jelena Fuzinato, José Antonio Sánchez Manzano, Kasja Jerlagić, Kemil Bekteši, Lala Rašcić, Mehmed Mahmutović, Mila Panić, Paul Lowe, Saša Tatić, Šejla Kamerić, Velma Babić, Ziyah Gafić<br/>
+		<a target="_blank" href="https://www.manifesto.gallery/benefit-art-auction">https://www.manifesto.gallery/benefit-art-auction</a></p>
+</article>
+
+<article role="article" style="max-width:800px;">
+	<p class="news_title">CEED Feminisms / Cell Project Space / London / UK / 21<sup>st</sup> September 2023</p>
+	<div class="news_img">
+		<img src="/img/news/CEED.jpg" style="width:100%;" />
+	</div>
+	<p class="news_body">
+		Cell Project Space and Feminist Duration Reading Group are leading a British Art Network research group exploring the role of feminist thinking in constructing cultural narratives about Central Eastern Europe and British Central Eastern European diaspora.<br/>
+		<a target="_blank" href="https://www.cellprojects.org/events/get-involved-ceed-feminisms">https://www.cellprojects.org/events/get-involved-ceed-feminisms</a></p>
+</article>
+
+<article role="article" style="max-width:800px;">
+	<p class="news_title">Predaj oružje - raz(na)oružaj se! / ART-ZOOM / Ostavinska / Belgrade / RS / October 2023</p>
+	<div class="news_img">
+		<img src="/img/news/oruzje.jpg" style="width:100%;" />
+	</div>
+	<p class="news_body">
+		Artists: Andrijana Pajović, Anica Vucetić, Andrei Cicala, Bogdan Djukanović, Bogdan Pavlović, Darija Radaković, Dragoslav Krnajski, Igor Antić, Milivoj Miško Pavlović, Nenad Burnić, Nina Todorović, Perica Donkov, Srðan Apostolović, Slobodan Trajković, Slobodanka Stupar i Vladimir Perić Talent<br/>
+		<a target="_blank" href="https://art-zoom.rs/izlozbe/predaj-oruzje-raznaoruzaj-se/">https://art-zoom.rs/izlozbe/predaj-oruzje-raznaoruzaj-se/</a></p>
+</article>
+
+<article role="article" style="max-width:800px;">
+	<p class="news_title">Art Coefficient ULUS / Art Pavilion Cvijeta Zuzorić / Belgrade / RS / Jul-Aug 2023</p>
+	<div class="news_img">
+		<img src="/img/news/koeficijent.jpg" style="width:100%; max-width:500px;" />
+	</div>
+	<p class="news_body">
+		Artists: Ivana Aranðelović, Boško Atanacković, Maja Beganović, Nenad Bogdanović, Dejan Bogojević, Luca Jovana Braletić, Renata Bujić, Andrei Cicala, Elzbieta Cios-Jonas, Sławomira Chorążyczewska, Dragana Dražović-Ilić, Dea Džanković, Borjan Grujić, Marina Ilić, Ivana Ivković, Marija Jevtić Dajić, Marta Jovanović, Aleksandra Kokotović, Nerica Kolaković, Sanja Latinović, Nikola Marković, Nataša Milojević, Vera Miljković, Miljana Niković, Chow Sing Tai, Teodora Nikolić, Katarzyna Podgórska-Glonti, Darija S. Radaković, Nikola Radosavljević, Nina Šumarac, Igor M. Toholj, Miloš Tomić, Sanja Vasić, Aleksandra Vasović, Marija Vauda, Nenad Vucković<br/>
+		<a target="_blank" href="https://ulus.rs/blog/umetnicki-koeficijent-izlozba-sekcije-prosirenih-medija-ulus-a/">https://ulus.rs/blog/umetnicki-koeficijent-izlozba-sekcije-prosirenih-medija-ulus-a/</a></p>
+</article>
+
+<article role="article" style="max-width:800px;">
+	<p class="news_title">NES Art Residency / Skagaströnd / IS / July 2023</p>
+	<div class="news_img">
+		<img src="/img/news/NES.jpg" style="width:100%; max-width:500px;" />
+	</div>
+	<p class="news_body"><a target="_blank" href="https://neslist.is/artist-in-residence-darija-s-radakovic/">https://neslist.is/artist-in-residence-darija-s-radakovic/</a></p>
+</article>
+
+<article role="article" style="max-width:800px;">
+	<p class="news_title">Konstepidemin - The Epidemic of Art / Gothenburg / SE / June 2023</p>
+	<div class="news_img">
+		<img src="/img/news/konstepidemin.jpg" style="width:100%; max-width:500px;" />
+	</div>
+	<p class="news_body"><a target="_blank" href="https://konstepidemin.se/en/guestartist/darija-radakovic/">https://konstepidemin.se/en/guestartist/darija-radakovic/</a></p>
+</article>
+
+<article role="article" style="max-width:800px;">
+	<p class="news_title">Human Capital / Confederation Centre of the Arts / Charlottetown / CA / Jun-Sep 2023</p>
+	<div class="news_img">
+		<img src="/img/news/confederation_centre.jpg" style="width:100%; max-width:500px;" />
+	</div>
+	<p class="news_body">
+		Curated by Tak Pham<br/>
+		Artists: Nura Ali, Aleesa Cohene, Darija, Chantal Gibson, Jeannie Mah, Min-Sook Lee, Esmaa Mohamoud, Nurgul Rodriguez, Marigold Santos, Florence Yee, and Shellie Zhang.<br/>
+		<a target="_blank" href="https://confederationcentre.com/exhibitions/human-capital/">https://confederationcentre.com/exhibitions/human-capital/</a></p>
+</article>
+
+<article role="article" style="max-width:800px;">
+	<p class="news_title">XV Festival KROKODIL - Spaces of Freedom / Museum of Yugoslavia / Belgrade / RS / June 15-18</p>
+	<div class="news_img">
+		<img src="/img/news/krokodil-XV.png" style="width:100%; max-width:500px;" />
+	</div>
+	<p class="news_body">
+		Like the most famous international literary festivals, the KROKODIL Festival will this year present its program in four program units, on four stages arranged in front of the Museum of Yugoslavia. After the opening ceremony of the festival on Thursday, June 15 at 8 p.m. with a staged reading of the play “The Conspirators” based on the motifs of KROKODIL’s “Common Library” edition, three rich program days await us with morning, afternoon and evening programs. We invite you to take a walk to the Museum of Yugoslavia, to bring your friends, children, pets… your favorite pillows and/or blankets and to enjoy the free programs which will take place in three distinct program zones: POP Zone, Debate Zone, and Kids and Gaming Zone, in the shade of the park and along with the phenomenal offer from our food court. During the three days of dynamic debates, panels, lectures, workshops and narrative programs, we will tackle the topics such as the violence on walls that reflects the violence in our society, aggression in public space and against minority communities, contemporary reinterpretations of fairy tales, (im)possibilities of healthy inclusion as well as the problems of invisible members of our community; we will deal with the open and closed Balkans, but also with the courage that is being made in Ukraine exposed to Russian aggression and the one related to the same circumstances and being “unmade” in Serbia, Yugoslavia and its heritage, but also with translation, residential programs as an important tool of cultural diplomacy, creative work for children, multi-linear narratives in gaming, and many other topics. The festival will be enriched by the performance of the Svi UGLAS! choir but also by the presentation of the conceptual artist Darija S. Radaković through her spatial installations and programmatic interventions. As always, the amphitheater and our famous stage “in the fountain” are reserved for the evening program, where Bernhard Schlink, Viktor Ivancić, Slavenka Drakulić, Zoran Predin, Bora Ćosić, Robert Perišić, Darko Cvijetić, but also Radina Vucetić, Dubravka Stojanović, Boris Buden, and many others will take turns in performances, readings and sofa interviews.<br/>
+		<a target="_blank" href="https://www.krokodil.rs/eng/2023/05/xv-festival-krokodil-spaces-of-freedom/">https://www.krokodil.rs/eng/2023/05/xv-festival-krokodil-spaces-of-freedom/</a></p>
+</article>
+
+<article role="article" style="max-width:800px;">
+	<p class="news_title">AGA LAB / Amsterdam / NL / Feb-Mar 2023</p>
+	<div class="news_img">
+		<img src="/img/news/aga_lab.jpg" style="width:100%; max-width:500px;" />
+	</div>
+	<p class="news_body"><a target="_blank" href="https://agalab.nl/en/home/">https://agalab.nl/en/home/</a></p>
+</article>
+
 	<div class="article_single year">2022</div>
 
 	<article role="article" style="max-width:800px;">

@@ -29,7 +29,7 @@ $description = '';
         <p><i>Education</i></p>
         <ul>
             <li>BFA, University of Fine Arts, under the mentorship of Professor Dušan Otašević, Belgrade, RS</li>
-            <li>College of Fine and Applied Arts, Belgrade, RS</li>
+            <!--li>College of Fine and Applied Arts, Belgrade, RS</li-->
         </ul>
     </article>
 
@@ -49,10 +49,10 @@ $description = '';
     <article role="article" style="max-width:800px;">
         <p><i>Residencies, Projects and Workshops</i></p>
         <ul>
-			<? /*
-            <li>2023 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NES Artist Residency, Skagaströnd, IS (<!--July -->2023)</li>
-            <li><span>2023</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AGA LAB Artist Residency, Amsterdam, NL (<!--March -->2023)</li>
-			*/ ?>
+            <li>2023 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NES Artist Residency, Skagaströnd, IS</li>
+            <li><span>2023</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Konstepidemin Artist Residency, Gothenburg, SE</li>
+            <li?><span>2023</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;XV Festival KROKODIL - Spaces of Freedom, Belgrade, RS</li>
+            <li><span>2023</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AGA LAB Artist Residency, Amsterdam, NL</li>
             <li>2022 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SECONDARY ARCHIVE - collaboration with curator Dejan Vasić, RS</li>
             <li><span>2022</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;KOAC, Kiyooka Ohe Arts Centre, Calgary, CA</li>
             <li><span>2022</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LOOK 2022, Contemporary Calgary, Calgary, CA</li>
@@ -93,7 +93,11 @@ $description = '';
     <article role="article" style="max-width:800px;">
         <p><i>Selected Group Exhibitions</i></p>
         <ul>
-            <li>2023 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Human Capital, Confederation Centre of the Arts, curated by Tak Pham, Charlottetown, CA</li>
+            <li>2023 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Što te nema, Manifesto Gallery, curated by Adna Muslija i Aida Sehović, Sarajevo, BA</li>
+            <li><span>2023</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Give Up the Weapon, Ostavinska, curated by Ivona Fregl, Belgrade, RS</li>
+            <li><span>2023</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Feminist Duration Reading Group, Cell Project Space, curated by Lina Džuverović, London, UK</li>
+            <li><span>2023</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Art Coefficient, Extended Media Section of ULUS, Beograd, RS</li>
+            <li><span>2023</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Human Capital, Confederation Centre of the Arts, curated by Tak Pham, Charlottetown, CA</li>
             <li>2022 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Milky Way, Museum of Contemporary Art of Vojvodina, Curated by Sanja Kojić Mladenov, Novi Sad, RS</li>
             <li><span>2022</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Human Capital, Contemporary Calgary, curated by Tak Pham, Calgary, CA</li>
             <li><span>2022</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Northeast Southwest, Kulturstiftung des Bundes, curated by Irfan Hošić, Dresden, DE</li>

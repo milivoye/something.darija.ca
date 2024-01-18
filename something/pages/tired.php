@@ -28,7 +28,7 @@ $gallery = array();
 		Museum of Contemporary Art of Vojvodina (2022)</p>
 	</article>
 
-	<!--
 	<aside role="complementary">
-	 </aside>
-	 -->
+		<p style="max-width:1135px">To sweep some issues under the carpet is not a new impulse. To hide and deny the truth when it’s not pleasant is even more understandable. But to live within a lie should not be an option; to witness a crime and stay silent is unacceptable. It becomes a burden of the past that we must bring out into the light and talk about for the sake of our future.
+TIRED is a text-based piece closely related to this necessity of coming out with inconvenient truths.</p>
+	</aside>
