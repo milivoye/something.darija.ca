@@ -22,6 +22,6 @@ $gallery = array();
 
     <article role="article" class="article_single">
         <p><?php echo $title; ?><span style="padding-left:1.25pt;"></span> / enamel on metal / 2017<br/><br/>
-            This conceptual work refers on famous and controversial ready-made &ldquo;Fountain&rdquo; by M. Duchamp. Coincidentally or not, a hundred years passed before another was found, and a historical perspective with it.</p>
+            This conceptual work refers to famous and controversial ready-made &ldquo;Fountain&rdquo; by M. Duchamp. Coincidentally or not, a hundred years passed before another was found, and a historical perspective with it.</p>
     </article>
     <div style="clear:both;"></div>

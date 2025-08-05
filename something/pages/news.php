@@ -15,6 +15,86 @@ $description = '';
 
 	<div class="article_single year">News</div>
 
+<div class="article_single year">2025</div>
+
+<article role="article" style="max-width:800px;">
+	<p class="news_title">Being Political / CZKD / Beograd / RS / Jun-Oct 2025</p>
+	<div class="news_img">
+		<img src="/img/news/czkd_2025.jpg" style="width:100%; max-width:720px;" />
+	</div>
+	<p class="news_body">
+		Curated by Ana Sladojević and Ana Miljanić<br/>
+		Artists: Bojan Fajfrić, Darinka Pop-Mitić,  Black Sheep Academy, Ana Vujović, Siniša Ilić, Darija S. Radaković, Doplgenger, Irfan Licina, Mladen Miljanović, Srðan Veljović<br/>
+		<a target="_blank" href="https://www.czkd.org/2025/07/saucesnistvo-fotografija-zlocin/">https://www.czkd.org/2025/07/saucesnistvo-fotografija-zlocin/</a></p>
+</article>
+
+<article role="article" style="max-width:800px;">
+	<p class="news_title">Matrix-Ost / Museum Kesselhaus Herzberge / Berlin / DE / Aug-Sep 2025</p>
+	<div class="news_img">
+		<img src="/img/news/matrix_ost.jpg" style="width:100%; max-width:720px;" />
+	</div>
+	<p class="news_body">
+		Matrix-Ost project aims to recontextualize contemporary Eastern European visual art within this historic and political framework, fostering dialogue and reflection on the shared and distinct artistic experiences of Eastern and Western Europe.<br/>
+		Curated by Anna Petrova, Heinz-Hermann Jurczek, Peter Ameis<br/>
+		Artists: Ewa Finn, Adrian Ghiman, Maks Malilo, Anton Laiko, Inna Artemova, Danja Akulin, Marina Schmitt, Marc Allgaier, Andrey Ustinov, Anna (Ania) Ruszkowski, Maria Arendt, Maria Sarkisiants, Iga Koncka, Igor Zaidel, Lea &amp; Adrian (Lea Heim, Adrian Buchli), Patricia Morosan, Eleonora Hrybniak, Anastasiia Nedoluzhenko, Iryna Kalenyk, Yury Tolstoguzov, Cristian Fierbinteanu, Agate Lielpetere, Van O, Carolina Dutca and Valentin Sidorenko, Laptii Yevheniia, Khrystyna Krasnopolska, Karolina Majewska, Lana Stojićević, Nastia Sopilnyk, Oscar Lebeck, Liudmila Belova, Nenad Nedeljkov, Ema Lancaricová, Darija S. Radakovic, Yuri Yefanov, Paulius Sliaupa, Stanko Gagrcin, Neringa Naujokaite.<br/>
+		<a target="_blank" href="https://www.museumkesselhaus.de/matrix_ost/">https://www.museumkesselhaus.de/matrix_ost/</a></p>
+</article>
+
+<article role="article" style="max-width:800px;">
+	<p class="news_title">LOOK2025 / Contemporary Calgary / Calgary / CA / May-Jun 2025</p>
+	<div class="news_img">
+		<img src="/img/news/look2025.png" style="width:100%; max-width:720px;" />
+	</div>
+	<p class="news_body">Fiona Ackerman, Jen Aitken, Dick Averns, Ashleigh Bartlett, Jason Bartziokas, Nancy Boyd, Kevin Boyle, Billie Rae Busby, Oscar Cahén, Nathan Eugene Carson, June Clark, Heather Close and Sarah Nordean, Michael Corner, Chris Cran, Lauren Crazybull, Amy Dryer, Renée Duval, Megan Dyck, Marcel Dzama, Christian Eckart, John Eisler, Dennis Ekstedt, Rhys Douglas Farrell, Chris Flodberg, Rocio Graham, Jude Griebel, Julya Hajnoczky, John Hall, Maggie Hall, Marcia Harris, Faye HeavyShield, Alicia Henry, Jennifer Hornyak, Sharie Hunter, Geoffrey Hunter, Joshua Jensen-Nagle, Mitch Kern, Harry Kiyooka, Neshka Krusche, Bryce Krynski, Paul Kuhn, Marie Lannoo, Kenneth Lochhead, Tyler Los-Jones, Robert Marchessault, Billy McCarroll, Karin McGinn, Nate McLeod, Ron Moppett, Mark Mullin, Katie Ohe, Erik Olson, Evan Penny, William Perehudoff, Christopher Pratt, Darija S. Radakovic, Anthony Redpath, Jean-Paul Riopelle, Nick Rooney, Sylvia Safdie, Simone Elizabeth Saunders, Michael Smith, Jesse Stilwell, Cassie Suche, Han Sungpil, David Thauberger, Carl White, John Will, Mary Shannon Will, Kristine Zingeler.<br />
+	<a target="_blank" href="https://www.contemporarycalgary.com/whats-on/look2025">https://www.contemporarycalgary.com/whats-on/look2025</a></p>
+</article>
+
+<article role="article" style="max-width:800px;">
+	<p class="news_title">The Hidden Third / Art Project Space / Athens / GR / May-Jun 2025</p>
+	<div class="news_img">
+		<img src="/img/news/athens_2025.jpg" style="width:100%; max-width:720px;" />
+	</div>
+	<p class="news_body">
+		Art Project Space presents an international group exhibition featuring women artists from Greece, Serbia, North Macedonia, and Cyprus, under the title The Hidden Third: Trapped Between Absence and Presence.<br/>
+		Curated by Ana Frangovska and Niki Papaspirou<br/>
+		Artists: Slobodanka Stupar, Anica Vucetic, Darija S. Radakovic, Annita Argyroiliopoulou, Efi Fouriki, Katerina Evagelakou, Monika Moteska, Vana Urosevic, Dijana Tomic, Slavica Janeshlieva, Klitsa Antoniou, Marina Kessanidou, Elina Ioannou.<br/>
+		<a target="_blank" href="https://artfacts.net/exhibition/the-hidden-third/1274800">https://artfacts.net/exhibition/the-hidden-third/1274800</a></p>
+</article>
+
+<div class="article_single year">2024</div>
+
+<article role="article" style="max-width:800px;">
+	<p class="news_title">Croatian Pavilion / 60th Venice Biennale / Venice / IT / Apr-Nov 2024</p>
+	<div class="news_img">
+		<img src="/img/news/venice_2024.png" style="width:100%; max-width:720px;" />
+	</div>
+	<p class="news_body">
+		I am invited by the artist Vlatka Horvat to participate, along with other artists from the diaspora, in the Croatian Pavilion at the Venice Biennale 2024.<br/>
+		Curated by Antonia Majaca<br/>
+		<a target="_blank" href="https://www.croatianpavilion2024.com/#contributors">https://www.croatianpavilion2024.com/</a></p>
+</article>
+
+<article role="article" style="max-width:800px;">
+	<p class="news_title">Nagrada &ldquo;Borka Pavićević&rdquo; / CZKD / Beograd / RS / June 2024</p>
+	<div class="news_img">
+		<img src="/img/news/czkd_2024.jpg" style="width:100%; max-width:720px;" />
+	</div>
+	<p class="news_body">
+		Finalista nagrade &ldquo;Borka Pavićević&rdquo; za javni gest Centra za kulturnu dekontaminaciju i Poljskog instituta u Beogradu<br/>
+		<a target="_blank" href="https://www.czkd.org/2024/06/dodeljena-je-prva-nagrada-borka-pavicevic-za-javni-gest/">https://www.czkd.org/2024/06/dodeljena-je-prva-nagrada-borka-pavicevic-za-javni-gest/</a></p>
+</article>
+
+<article role="article" style="max-width:800px;">
+	<p class="news_title">Human Capital / Kenderdine Art Gallery / University of Saskatchewan / Saskatoon / CA / Jan-Apr 2024</p>
+	<div class="news_img">
+		<img src="/img/news/kenderdine_art_gallery.jpg" style="width:100%; max-width:720px;" />
+	</div>
+	<p class="news_body">
+		Curated by Tak Pham<br/>
+		Artists: Nura Ali, Aleesa Cohene, Darija, Chantal Gibson, Jeannie Mah, Min-Sook Lee, Esmaa Mohamoud, Nurgul Rodriguez, Marigold Santos, Florence Yee, and Shellie Zhang.<br/>
+		<a target="_blank" href="https://kagcag.usask.ca/exhibitions/2024/human-capital.php">https://kagcag.usask.ca/exhibitions/2024/human-capital.php</a></p>
+</article>
+
 <div class="article_single year">2023</div>
 
 <article role="article" style="max-width:800px;">
@@ -60,7 +140,7 @@ $description = '';
 <article role="article" style="max-width:800px;">
 	<p class="news_title">Art Coefficient ULUS / Art Pavilion Cvijeta Zuzorić / Belgrade / RS / Jul-Aug 2023</p>
 	<div class="news_img">
-		<img src="/img/news/koeficijent.jpg" style="width:100%; max-width:500px;" />
+		<img src="/img/news/koeficijent.jpg" style="width:100%; max-width:720px;" />
 	</div>
 	<p class="news_body">
 		Artists: Ivana Aranðelović, Boško Atanacković, Maja Beganović, Nenad Bogdanović, Dejan Bogojević, Luca Jovana Braletić, Renata Bujić, Andrei Cicala, Elzbieta Cios-Jonas, Sławomira Chorążyczewska, Dragana Dražović-Ilić, Dea Džanković, Borjan Grujić, Marina Ilić, Ivana Ivković, Marija Jevtić Dajić, Marta Jovanović, Aleksandra Kokotović, Nerica Kolaković, Sanja Latinović, Nikola Marković, Nataša Milojević, Vera Miljković, Miljana Niković, Chow Sing Tai, Teodora Nikolić, Katarzyna Podgórska-Glonti, Darija S. Radaković, Nikola Radosavljević, Nina Šumarac, Igor M. Toholj, Miloš Tomić, Sanja Vasić, Aleksandra Vasović, Marija Vauda, Nenad Vucković<br/>
@@ -70,7 +150,7 @@ $description = '';
 <article role="article" style="max-width:800px;">
 	<p class="news_title">NES Art Residency / Skagaströnd / IS / July 2023</p>
 	<div class="news_img">
-		<img src="/img/news/NES.jpg" style="width:100%; max-width:500px;" />
+		<img src="/img/news/NES.jpg" style="width:100%; max-width:720px;" />
 	</div>
 	<p class="news_body"><a target="_blank" href="https://neslist.is/artist-in-residence-darija-s-radakovic/">https://neslist.is/artist-in-residence-darija-s-radakovic/</a></p>
 </article>
@@ -78,7 +158,7 @@ $description = '';
 <article role="article" style="max-width:800px;">
 	<p class="news_title">Konstepidemin - The Epidemic of Art / Gothenburg / SE / June 2023</p>
 	<div class="news_img">
-		<img src="/img/news/konstepidemin.jpg" style="width:100%; max-width:500px;" />
+		<img src="/img/news/konstepidemin.jpg" style="width:100%; max-width:720px;" />
 	</div>
 	<p class="news_body"><a target="_blank" href="https://konstepidemin.se/en/guestartist/darija-radakovic/">https://konstepidemin.se/en/guestartist/darija-radakovic/</a></p>
 </article>
@@ -86,7 +166,7 @@ $description = '';
 <article role="article" style="max-width:800px;">
 	<p class="news_title">Human Capital / Confederation Centre of the Arts / Charlottetown / CA / Jun-Sep 2023</p>
 	<div class="news_img">
-		<img src="/img/news/confederation_centre.jpg" style="width:100%; max-width:500px;" />
+		<img src="/img/news/confederation_centre.jpg" style="width:100%; max-width:720px;" />
 	</div>
 	<p class="news_body">
 		Curated by Tak Pham<br/>
@@ -97,7 +177,7 @@ $description = '';
 <article role="article" style="max-width:800px;">
 	<p class="news_title">XV Festival KROKODIL - Spaces of Freedom / Museum of Yugoslavia / Belgrade / RS / June 15-18</p>
 	<div class="news_img">
-		<img src="/img/news/krokodil-XV.png" style="width:100%; max-width:500px;" />
+		<img src="/img/news/krokodil-XV.png" style="width:100%; max-width:720px;" />
 	</div>
 	<p class="news_body">
 		Like the most famous international literary festivals, the KROKODIL Festival will this year present its program in four program units, on four stages arranged in front of the Museum of Yugoslavia. After the opening ceremony of the festival on Thursday, June 15 at 8 p.m. with a staged reading of the play “The Conspirators” based on the motifs of KROKODIL’s “Common Library” edition, three rich program days await us with morning, afternoon and evening programs. We invite you to take a walk to the Museum of Yugoslavia, to bring your friends, children, pets… your favorite pillows and/or blankets and to enjoy the free programs which will take place in three distinct program zones: POP Zone, Debate Zone, and Kids and Gaming Zone, in the shade of the park and along with the phenomenal offer from our food court. During the three days of dynamic debates, panels, lectures, workshops and narrative programs, we will tackle the topics such as the violence on walls that reflects the violence in our society, aggression in public space and against minority communities, contemporary reinterpretations of fairy tales, (im)possibilities of healthy inclusion as well as the problems of invisible members of our community; we will deal with the open and closed Balkans, but also with the courage that is being made in Ukraine exposed to Russian aggression and the one related to the same circumstances and being “unmade” in Serbia, Yugoslavia and its heritage, but also with translation, residential programs as an important tool of cultural diplomacy, creative work for children, multi-linear narratives in gaming, and many other topics. The festival will be enriched by the performance of the Svi UGLAS! choir but also by the presentation of the conceptual artist Darija S. Radaković through her spatial installations and programmatic interventions. As always, the amphitheater and our famous stage “in the fountain” are reserved for the evening program, where Bernhard Schlink, Viktor Ivancić, Slavenka Drakulić, Zoran Predin, Bora Ćosić, Robert Perišić, Darko Cvijetić, but also Radina Vucetić, Dubravka Stojanović, Boris Buden, and many others will take turns in performances, readings and sofa interviews.<br/>
@@ -107,7 +187,7 @@ $description = '';
 <article role="article" style="max-width:800px;">
 	<p class="news_title">AGA LAB / Amsterdam / NL / Feb-Mar 2023</p>
 	<div class="news_img">
-		<img src="/img/news/aga_lab.jpg" style="width:100%; max-width:500px;" />
+		<img src="/img/news/aga_lab.jpg" style="width:100%; max-width:720px;" />
 	</div>
 	<p class="news_body"><a target="_blank" href="https://agalab.nl/en/home/">https://agalab.nl/en/home/</a></p>
 </article>
@@ -117,7 +197,7 @@ $description = '';
 	<article role="article" style="max-width:800px;">
 		<p class="news_title">Milky Way / Muzej savremene umetnosti Vojvodine / Novi Sad / RS / Nov-Dec 2022</p>
 		<div class="news_img">
-			<img src="/img/news/milky_way.jpg" style="width:100%; max-width:500px;" />
+			<img src="/img/news/milky_way.jpg" style="width:100%; max-width:720px;" />
 		</div>
 		<p class="news_body">
 			Curated by Sanja Kojić Mladenov<br/>
@@ -128,7 +208,7 @@ $description = '';
 	<article role="article" style="max-width:800px;">
 		<p class="news_title">I Don't Think Art Is Good for You / Herringer Kiss Gallery / Calgary / CA / Nov-Jan 2022/23</p>
 		<div class="news_img">
-			<img src="/img/news/i_dont_think_art_is_good_for_you.jpg" style="width:100%; max-width:500px;" />
+			<img src="/img/news/i_dont_think_art_is_good_for_you.jpg" style="width:100%; max-width:720px;" />
 		</div>
 		<p class="news_body">Solo show, November 19 – January 20 <a target="_blank" href="https://www.herringerkissgallery.com/vr-radakovic">https://www.herringerkissgallery.com/vr-radakovic</a></p>
 	</article>
@@ -136,7 +216,7 @@ $description = '';
 	<article role="article" style="max-width:800px;">
 		<p class="news_title">Human Capital / Contemporary Calgary / Calgary / CA / Oct-Jan 2022/23</p>
 		<div class="news_img">
-			<img src="/img/news/human_capital_darija.jpg" style="width:100%; max-width:500px;" />
+			<img src="/img/news/human_capital_darija.jpg" style="width:100%; max-width:720px;" />
 		</div>
 		<p class="news_body">
 			Curated by Tak Pham<br/>
@@ -147,7 +227,7 @@ $description = '';
 	<article role="article" style="max-width:800px;">
 		<p class="news_title">Sviða mi se da ti ne bude prijatno / NGVU / Beograd / RS / October 2022</p>
 		<div class="news_img">
-			<img src="/img/news/svidja_mi_se_a_ti_ne_bude_prijatno.jpg" style="width:100%; max-width:500px;" />
+			<img src="/img/news/svidja_mi_se_a_ti_ne_bude_prijatno.jpg" style="width:100%; max-width:720px;" />
 		</div>
 		<p class="news_body">
 			Solo show, September 2 – 27, 2022<br/>
@@ -158,7 +238,7 @@ $description = '';
 	<article role="article" style="max-width:800px;">
 		<p class="news_title">Guiding: Sviða mi se da ti ne bude prijatno / Seecult / Beograd / RS / September 2022</p>
 		<div class="news_img">
-			<iframe width="500" height="281" src="https://www.youtube.com/embed/E5QGjMf6myk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			<iframe width="720" height="405" src="https://www.youtube.com/embed/E5QGjMf6myk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 		</div>
 		<p class="news_body">
 			Guiding by Branislav Dimitrijević<br/>
@@ -168,7 +248,7 @@ $description = '';
 	<article role="article" style="max-width:800px;">
 		<p class="news_title">Sviða mi se da ti ne bude prijatno / RTS2 / Beograd / RS / September 2022</p>
 		<div class="news_img">
-			<img src="/img/news/ordinary_tool.jpg" style="width:100%; max-width:500px;" />
+			<img src="/img/news/ordinary_tool.jpg" style="width:100%; max-width:720px;" />
 		</div>
 		<p class="news_body">
 			Radio interview by Mirjana Boba Stojadinović<br/>
@@ -178,7 +258,7 @@ $description = '';
 	<article role="article" style="max-width:800px;">
 		<p class="news_title">Northeast Southwest / Kulturstiftung des Bundes / Dresden / DE / Sep-Nov 2022</p>
 		<div class="news_img">
-			<img src="/img/news/kulturstiftung-des-bundes.jpg" style="width:100%; max-width:500px;" />
+			<img src="/img/news/kulturstiftung-des-bundes.jpg" style="width:100%; max-width:720px;" />
 		</div>
 		<p class="news_body">
 			Artistic directors: Christiane Mennicke-Schwarz, Ahmad Ghossein, Haig Aivazian, Irfan Hošić, Marta Keil, Grzegorz Reske<br/>
@@ -189,7 +269,7 @@ $description = '';
 	<article role="article" style="max-width:800px;">
 		<p class="news_title">Ovo je mural / CZKD / Belgrade / RS / July 2022</p>
 		<div class="news_img">
-			<img src="/img/news/czkd_july22.jpg" style="width:100%; max-width:500px;" />
+			<img src="/img/news/czkd_july22.jpg" style="width:100%; max-width:720px;" />
 		</div>
 		<p class="news_body">
 			Curated by: Dejan Vasić<br/>
@@ -200,7 +280,7 @@ $description = '';
 	<article role="article" style="max-width:800px;">
 		<p class="news_title">Neobjavljeni materijali - 6. Meðunarodno Trijenale proširenih medija / ULUS / Belgrade / RS / Jun-Jul 2022</p>
 		<div class="news_img">
-			<img src="/img/news/6_bi_ext_media.jpg" style="width:100%; max-width:500px;" />
+			<img src="/img/news/6_bi_ext_media.jpg" style="width:100%; max-width:720px;" />
 		</div>
 		<p class="news_body">
 			Curated by: Andrijana Pajović, Vukica Vukas, Milica Lapcević, Nenad Jeremić<br/>
@@ -209,9 +289,18 @@ $description = '';
 	</article>
 
 	<article role="article" style="max-width:800px;">
+		<p class="news_title">LOOK2022 / Contemporary Calgary / Calgary / CA / May-Jun 2022</p>
+		<div class="news_img">
+			<img src="/img/news/look2022.png" style="width:100%; max-width:720px;" />
+		</div>
+		<p class="news_body">Nura Ali, Maxwell Bates, Dianne Bos, David Burdeny, Catherine Burgess, Edward Burtynsky, Billie Rae Busby, Joane Cardinal-Schubert, Michael Corner, Chris Cran, Cathy Daley, DaveandJenn, Mark Dicey, Joseph Drapell, Rhys Douglas Farrell, Ted Godwin, Angela Grossmann, John Hall, Maggie Hall, Marcia Harris, John Heward, Aron Hill, Brian Howell, Darryl Hughto, Geoffrey Hunter, Laurel Johannesson, Kent Merriman Jr., Illingworth Kerr, Harry Kiyooka, Paul Kuhn, Robert Marchessault, Andrew James McKay, Steve Mennie, Chris Millar, David Milne, Kent Monkman, Ron Moppett, Mark Mullin, Yvonne Mullock, Erik Olson, Laura Pope, Darija Radakovic, Sylvia Safdie, Ryan Sluggett, Michael Smith, Corri-Lynn Tetz, David Thauberger, Diana Thorneycroft, Harold Town, Carol Wainio, Andy Warhol, John Will, Mary Shannon Will, and Diana Zasadny.<br />
+			<a target="_blank" href="https://www.contemporarycalgary.com/whats-on/look2022-art-auction?rq=look%202022">https://www.contemporarycalgary.com/whats-on/look2022-art-auction</a></p>
+	</article>
+
+	<article role="article" style="max-width:800px;">
 		<p class="news_title">The Case of Poor Images / KCB / Belgrade / RS / April 2022</p>
 		<div class="news_img">
-			<img src="/img/news/Artget-Slucaj-siromasne-slike-1-kcb.jpg" style="width:100%; max-width:500px;" />
+			<img src="/img/news/Artget-Slucaj-siromasne-slike-1-kcb.jpg" style="width:100%; max-width:720px;" />
 		</div>
 		<p class="news_body">
 			Curated by: Mia Ćuk<br/>
@@ -224,7 +313,7 @@ $description = '';
 	<article role="article" style="max-width:800px;">
 		<p class="news_title">Ups and Downs, Highs and Lows... and the Forgotten / CZKD / Belgrade / RS / October 2021</p>
 		<div class="news_img">
-			<img src="/img/news/usponi_i_padovi.jpg" style="width:100%; max-width:500px;" />
+			<img src="/img/news/usponi_i_padovi.jpg" style="width:100%; max-width:720px;" />
 		</div>
 		<p class="news_body">
 			Curated by: Branislav Dimitrijević and Ana Miljanić<br/>
@@ -235,7 +324,7 @@ $description = '';
 	<article role="article" style="max-width:800px;">
 		<p class="news_title">What Makes Another World Possible? / Tallinn Art Hall / Tallinn / EE / Sep-Dec 2021</p>
 		<div class="news_img">
-			<img src="/img/news/misplaced.jpg" style="width:100%; max-width:500px;" />
+			<img src="/img/news/misplaced.jpg" style="width:100%; max-width:720px;" />
 		</div>
 		<p class="news_body">
 			Curated by: Corina Apostol<br/>
@@ -246,7 +335,7 @@ $description = '';
 	<article role="article" style="max-width:800px;">
 		<p class="news_title">Art of Antiwar / Historical Museum of Bosnia and Herzegovina / Sarajevo / BA / September 2021</p>
 		<div class="news_img">
-			<img src="/img/news/umetnost_antirata.jpg" style="width:100%; max-width:500px;" />
+			<img src="/img/news/umetnost_antirata.jpg" style="width:100%; max-width:720px;" />
 		</div>
 		<p class="news_body">
 			Curated by: Ana Simona Zelenović<br/>
@@ -258,7 +347,7 @@ $description = '';
 	<article role="article" style="max-width:800px;">
 		<p class="news_title">EMAIL ART: inner mobility / Udruga RADDAR / MKC Split / Split / HR / August 2021</p>
 		<div class="news_img">
-			<img src="/img/news/oh_nothing.2.jpg" style="width:100%; max-width:500px;" />
+			<img src="/img/news/oh_nothing.2.jpg" style="width:100%; max-width:720px;" />
 		</div>
 		<p class="news_body">
 			Curated by: Sonja Švec Španjol, Branko Cerovac, and Božo Kesić<br/>
@@ -269,7 +358,7 @@ $description = '';
 	<article role="article" style="max-width:800px;">
 		<p class="news_title">It Didn’t Happen / ULUS Multimedia Section / Bioskop Balkan / Belgrade / RS / Jul-Aug 2021</p>
 		<div class="news_img">
-			<img src="/img/news/biram_reci.jpg" style="width:100%; max-width:500px;" />
+			<img src="/img/news/biram_reci.jpg" style="width:100%; max-width:720px;" />
 		</div>
 		<p class="news_body">Artists: Marijan Andrejević, Toni Anicin, Anka Arsenić, Arion Aslani, Boško Atanacković, Massimo Avantigiatto, Veselin Banjević, Maja Beganović, Dejan Bogojević, Jelena Bokić, Jovana Braletić, Dajana Damjanović, Mirjana Ðorðević-Thaler, Aleksandra Ðukić, Vesna Dobricić, FAMA, Sana Garić, Milana Gavrilov, Aleksandar Gligorijević, Mladen Hrvanović, Ivana Ivković, Nenad Jeremić, Petar Joncić, Jovan Jović, Tanja Jurican, Gordana Kaljalović, Joana Knežević, Branka Kuzmanović, Tanja Licina, Božidar Mandić, Nenad Marić, Vlada Milinković, Mina Milosavljević, Gertruda Moser-Wagner, Marko Nektan i Nataša Milojević, Ivica Nikolać, Maria Nova, Ðorðe Odanović, Allan Parker, Saša Petrović, Zvonko Petrović, Darinka Pop-Mitić, Marija Popović, Jasmina Prodanović, Darija S. Radaković, Ivana Ranisavljević, Mihailo Ristić, Ðorðe Stanojević, Jana Stojković, Nina Šumarac, Eva Ursprung - Doris Jauk Hinz, Gabriela Vasić, Mihailo Vasiljević, Vladimir Veljašević, Snežana Vujović Nikolić, Darko Vukić, Aleks Zain.<br/>
 			<a target="_blank" href="https://ulus.rs/blog/to-se-nije-dogodilo-izlozba-sekcije-prosirenih-medija-ulus/">https://ulus.rs/blog/to-se-nije-dogodilo-izlozba-sekcije-prosirenih-medija-ulus/</a></p>
@@ -278,7 +367,7 @@ $description = '';
 	<article role="article" style="max-width:800px;">
 		<p class="news_title">Hospitable Utopia / Contemporary Art Festival VIDEOPARK / Reflector Gallery / Užice / RS / July 2021</p>
 		<div class="news_img">
-			<img src="/img/news/the_world_is_watching.jpg" style="width:100%; max-width:500px;" />
+			<img src="/img/news/the_world_is_watching.jpg" style="width:100%; max-width:720px;" />
 		</div>
 			<a target="_blank" href="https://uvuu.rs/">https://uvuu.rs/</a></p>
 	</article>
@@ -286,7 +375,7 @@ $description = '';
 	<article role="article" style="max-width:800px;">
 		<p class="news_title">A Diary of Insults / Šok Koridor, Novi Sad / RS / June 2021</p>
 		<div class="news_img">
-			<img src="/img/news/insults.jpg" style="width:100%; max-width:500px;" />
+			<img src="/img/news/insults.jpg" style="width:100%; max-width:720px;" />
 		</div>
 		<p class="news_body">curated by Vokalno Kustoski Sindrom<br/>
 			<a target="_blank" href="https://cargocollective.com/VKS">https://cargocollective.com/VKS</a></p>
@@ -295,7 +384,7 @@ $description = '';
 	<article role="article" style="max-width:800px;">
 		<p class="news_title">Femkanje / Cultural Center of Belgrade / Belgrade / RS / Jan-Mar 2021</p>
 		<div class="news_img">
-			<img src="/img/news/femkanje.jpg" style="width:100%; max-width:500px;" />
+			<img src="/img/news/femkanje.jpg" style="width:100%; max-width:720px;" />
 		</div>
 		<p class="news_body"><a target="_blank" href="https://femkanje.rs/category/authors/darija-s-radakovic/">https://femkanje.rs/category/authors/darija-s-radakovic/</a></p>
 	</article>
@@ -303,7 +392,7 @@ $description = '';
 	<article role="article" style="max-width:800px;">
 		<p class="news_title">Not for Profit NOR Fame / Herringer Kiss Gallery / Calgary / CA / Jan-Feb 2021</p>
 		<div class="news_img">
-			<img src="/img/news/not_for_profit_nor_fame.jpg" style="width:100%; max-width:500px;" />
+			<img src="/img/news/not_for_profit_nor_fame.jpg" style="width:100%; max-width:720px;" />
 		</div>
 		<p class="news_body">Solo show, January 9 – February 13 <a target="_blank" href="https://www.herringerkissgallery.com/vr-radakovic">https://www.herringerkissgallery.com/vr-radakovic</a></p>
 	</article>
@@ -313,7 +402,7 @@ $description = '';
 	<article role="article" style="max-width:800px;">
 		<p class="news_title">Manek #9 / Independent Culture Scene of Serbia / RS / 2020 issue</p>
 		<div class="news_img">
-			<video style="width:100%; max-width:500px;" controls>
+			<video style="width:100%; max-width:720px;" controls>
 				<source src="/img/news/manek9.mp4" type="video/mp4">
 			</video>
 		</div>
@@ -323,7 +412,7 @@ $description = '';
 	<article role="article" style="max-width:800px;">
 		<p class="news_title">Flatbed Pictures / Herringer Kiss Gallery / Calgary / CA / November 2020</p>
 		<div class="news_img">
-			<img src="/img/news/m3.jpg" style="width:100%; max-width:500px;" />
+			<img src="/img/news/m3.jpg" style="width:100%; max-width:720px;" />
 		</div>
 		<p class="news_body">
 			Curated by: Deborah H.<br/>
@@ -335,7 +424,7 @@ $description = '';
 	<article role="article" style="max-width:800px;">
 		<p class="news_title">52st May Exhibition of the ULUPUDS / Bioskop Balkan / Belgrade / RS / October 2020</p>
 		<div class="news_img">
-			<img src="/img/news/majska_2020_ulupuds.jpg" style="width:100%; max-width:500px;" />
+			<img src="/img/news/majska_2020_ulupuds.jpg" style="width:100%; max-width:720px;" />
 		</div>
 		<p class="news_body">
 			<a target="_blank" href="http://www.ulupuds.org.rs/">http://www.ulupuds.org.rs/</a>
@@ -345,7 +434,7 @@ $description = '';
 	<article role="article" style="max-width:800px;">
 		<p class="news_title">KUMA International Summer School / Sarajevo / BA / August 2020</p>
 		<div class="news_img">
-			<img src="/img/news/kuma_2020.jpg" style="width:100%; max-width:500px;" />
+			<img src="/img/news/kuma_2020.jpg" style="width:100%; max-width:720px;" />
 		</div>
 		<p class="news_body">Invited but not attended Kuma International Summer School: "Art in Times of Crisis"<br/>
 			<a target="_blank" href="http://kumainternational.org/kuma-international-summer-school-2020/">http://kumainternational.org/kuma-international-summer-school-2020</a></p>
@@ -354,7 +443,7 @@ $description = '';
 	<article role="article" style="max-width:800px;">
 		<p class="news_title">Genocid u Srebrenici / BHRT / Sarajevo / BA / July 2020</p>
 		<div class="news_img">
-			<img src="/img/news/bhrt.jpg" style="width:100%; max-width:500px;" />
+			<img src="/img/news/bhrt.jpg" style="width:100%; max-width:720px;" />
 		</div>
 		<p class="news_body">Short video presentation on BHRT New Media platform.<br/>
 			<a target="_blank" href="https://www.facebook.com/www.bhrt.ba/videos/206306980699708/">https://www.facebook.com/www.bhrt.ba/videos/206306980699708</a></p>
@@ -363,7 +452,7 @@ $description = '';
 	<article role="article" style="max-width:800px;">
 		<p class="news_title">In Common / Esker Foundation / Calgary / CA / June 2020</p>
 		<div class="news_img">
-			<img src="/img/news/esker.jpg" style="width:100%; max-width:500px;" />
+			<img src="/img/news/esker.jpg" style="width:100%; max-width:720px;" />
 		</div>
 		<p class="news_body">Part of Esker's 'In Common' series.<br/>
 			<a target="_blank" href="https://www.instagram.com/p/CB7FVL1JH7T/">https://www.instagram.com/p/CB7FVL1JH7T</a></p>
@@ -372,7 +461,7 @@ $description = '';
 	<article role="article" style="max-width:800px;">
 		<p class="news_title">Corruption of personality / Museum of Corruption / Belgrade / RS / June 2020</p>
 		<div class="news_img">
-			<img src="/img/news/moc.jpg" style="width:100%; max-width:500px;" />
+			<img src="/img/news/moc.jpg" style="width:100%; max-width:720px;" />
 		</div>
 		<p class="news_body"><a target="_blank" href="https://museumofcorruption.net/corruption-of-personality/">https://museumofcorruption.net/corruption-of-personality</a></p>
 	</article>
@@ -380,7 +469,7 @@ $description = '';
 	<article role="article" style="max-width:800px;">
 		<p class="news_title">Spring Exhibition / Art Pavilion Cvijeta Zuzorić / Belgrade / RS / May-Jun 2020</p>
 		<div class="news_img">
-			<img src="/img/news/majska_2020.jpg" style="width:100%; max-width:500px;" />
+			<img src="/img/news/majska_2020.jpg" style="width:100%; max-width:720px;" />
 		</div>
 		<p class="news_body">
 			Curated by: Mirjana Dragosavljević<br/>
@@ -392,7 +481,7 @@ $description = '';
 	<article role="article" style="max-width:800px;">
 		<p class="news_title">La NADA, Una declaración / Hotel DADA / Junín / AR / Apr-Jun 2020</p>
 		<div class="news_img">
-			<img src="/img/news/oh_nothing.jpg" style="width:100%; max-width:500px;" />
+			<img src="/img/news/oh_nothing.jpg" style="width:100%; max-width:720px;" />
 			<span>video still</span>
 		</div>
 		<p class="news_body">
@@ -404,8 +493,8 @@ $description = '';
 	<article role="article" style="max-width:800px;">
 		<p class="news_title">TO THE AWE #7 / The New Gallery / Calgary / CA / February 27th, 2020</p>
 		<div class="news_img">
-			<img src="/img/news/awe.jpg" style="width:100%; max-width:500px;" />
-			<!--img src="/img/social_justice/social_justice.jpg" style="width:100%; max-width:500px;" /-->
+			<img src="/img/news/awe.jpg" style="width:100%; max-width:720px;" />
+			<!--img src="/img/social_justice/social_justice.jpg" style="width:100%; max-width:720px;" /-->
 			<!--div class="fb-video" data-href="https://www.facebook.com/totheawe/videos/2167613150200783/" data-width="500" data-show-text="false"></div-->
 		</div>
 		<p class="news_body"><i>Social Justice</i> performance was a part of TO THE AWE at The New Gallery.<br/>
@@ -416,7 +505,7 @@ $description = '';
 	<article role="article" style="max-width:800px;">
 		<p class="news_title">LOOK2020 / Contemporary Calgary / Calgary / CA / March 2020</p>
 		<div class="news_img">
-			<img src="/img/news/look2020.jpg" style="width:100%; max-width:500px;" />
+			<img src="/img/news/look2020.jpg" style="width:100%; max-width:720px;" />
 		</div>
 		<p class="news_body"><a target="_blank" href="https://www.contemporarycalgary.com/">https://www.contemporarycalgary.com</a></p>
 	</article>
@@ -424,7 +513,7 @@ $description = '';
 	<article role="article" style="max-width:800px;">
 		<p class="news_title">In Conversation / Gallery 505 / Calgary / CA / Jan-Sep 2020</p>
 		<div class="news_img">
-			<img src="/img/news/505.jpg" style="width:100%; max-width:500px;" />
+			<img src="/img/news/505.jpg" style="width:100%; max-width:720px;" />
 		</div>
 		<p class="news_body">Solo exhibition curated by Calgary Allied Arts Foundation (CAAF)<br/>
 			<a target="_blank" href="http://www.calgaryalliedartsfoundation.ca/gallery-505/">http://www.calgaryalliedartsfoundation.ca/gallery-505</a></p>
@@ -435,7 +524,7 @@ $description = '';
 	<article role="article" style="max-width:800px;">
 		<p class="news_title">Cover page for Manek / Independent Culture Scene of Serbia / RS / Autumn/Winter 2019 issue</p>
 		<div class="news_img">
-			<img src="/img/news/manek-2.jpg" style="width:100%; max-width:500px;" />
+			<img src="/img/news/manek-2.jpg" style="width:100%; max-width:720px;" />
 		</div>
 		<p class="news_body"><a target="_blank" href="http://nezavisnakultura.net/manek/">http://nezavisnakultura.net/manek</a> &nbsp;| <a target="_blank" href="http://engnews24h.com/new-8-manek-from-autonomy-to-anomie-and-back/">http://engnews24h.com/new-8-manek-from-autonomy-to-anomie-and-back</a></p>
 	</article>
@@ -443,7 +532,7 @@ $description = '';
 	<article role="article" style="max-width:800px;">
 		<p class="news_title">The Kiyooka Ohe Arts Centre auction / Hotel Arts / Calgary / CA / September 2019</p>
 		<div class="news_img">
-			<img src="/img/news/KOAC.png" style="width:100%; max-width:500px;" />
+			<img src="/img/news/KOAC.png" style="width:100%; max-width:720px;" />
 		</div>
 		<p class="news_body">Artists: Alain Attar, Alana Bartol, Alex Caldwell, Aron Hill, Ashleigh Bartlett, Cindy Delpart, Curtis Cutshaw, Chris Cran,  Drunken Paw (Mark Dicey, Leslie Sweder and Janet Turner), Eric Louie, Fiona Ackerman, Geoffrey Hunter, Harry Kiyooka, Jeremy Pavka, Joe Fleming, work by John Snow donated by Collectors Gallery, Katie Ohe, Mark C Mullin, Michael Davidson, Patrick Dunford, Philip Kanwischer, Rocio Graham, Ron Moppett, Samantha Walrod, Sean Michael Taal, Seka Owen, Svea Ferguson<br/>
 			<a target="_blank" href="https://www.koartscentre.org/gala/">https://www.koartscentre.org/gala</a></p>
@@ -452,7 +541,7 @@ $description = '';
 	<article role="article" style="max-width:800px;">
 		<p class="news_title">Seeing the Invisible / Spatially Oriented Provocations / Novi Sad / RS / September 2019</p>
 		<div class="news_img">
-			<img src="/img/news/seeing_the_invisible.jpg" style="width:100%; max-width:500px;" />
+			<img src="/img/news/seeing_the_invisible.jpg" style="width:100%; max-width:720px;" />
 		</div>
 		<p class="news_body">Curators: Bálint Bolcsó, Nebojša Camprag, Andrew Filmer, Miodrag Kuc, Lana Lovrencić, Vladimir Macura, Johannes Riquet, Slobodan Danko Selinkić, Ljubica Slavković<br/>
 			Artists: Balázs Kovács, Branko Stanojević, Milena Strahinović, Karen Berger, Fatljind Çollaku, Jelena Vujović, Hari Marini, Dragana Dražović Ilić, Ivan Šuković, Michele Louise Schiocchet, Milene Duenha, Vladimir Janić, Darija S. Radaković, Jonas Vansteenkiste, Ðorðe Aralica, Lidija Šalipur, Nick Hunt, Milica Stojšić, Gabriela Fierbinteanu, Christian Fierbinteanu, Alex Bala, Erika Petrić, Stevan Lutovac, Andrej Strehovec, Thomas Stempka, Harvey A. Vasquez, Bojana Jerković-Babović, Juan Carlos Meana, Etta Madete, Aleksandar Davidović, Violeta Stefanović, Zoran Otrupcak, Ilija Gubić, Irene Išingizve, James Runi, Marina Radulj, Milana Nedimović, Filip Marinković, Marta Ostajewska, Adam Musiałowicz, Piotr Spychała, Suavas Lewy, Zdravko Delibašić Beli, Miloš Kostić, Anastasija Šutović, Anka Gardašević, Iva Pejcić, Milica Tasić, Miloš Ðikanović, Jenny Knotts, Nenad Pavlović, Isola Rosa, Kadamay, Sikad, Igor Vukicević, Svenja Vierath, Elianna Renner, Javier Callejas Sevilla, Anna Tweeddale, Maja Momirov<br/>
@@ -462,7 +551,7 @@ $description = '';
 	<article role="article" style="max-width:800px;">
 		<p class="news_title">Rewriting the Past / Contemporary Art Festival VIDEOPARK / Reflector Gallery / Užice / RS / August 2019</p>
 		<div class="news_img">
-			<img src="/img/news/videopark.jpg" style="width:100%; max-width:500px;" />
+			<img src="/img/news/videopark.jpg" style="width:100%; max-width:720px;" />
 		</div>
 		<p class="news_body">Artists: Adrien Ujhazi, Sreten Vuković, Ðejmi Hadrović, Nikola Radosavljević, Hyeonsu Jung, Anja Khersonska, Bogdan Obradović, Una Tomašević, Dominik Szereday, Jelena Rakić, Nikola Dabić, Darija S. Radaković, Bogoljub Ðoković, Janez Juh, Marija Arandelović<br/>
 			<a target="_blank" href="https://www.facebook.com/events/408095423143483/">https://www.facebook.com/events/408095423143483</a></p>
@@ -471,7 +560,7 @@ $description = '';
 	<article role="article" style="max-width:800px;">
 		<p class="news_title">No Image 2019 / Institute for Contemporary Art / CICA Museum / Gimpo-si / KR / August 2019</p>
 		<div class="news_img">
-			<img src="/img/news/cica.jpg" style="width:100%; max-width:500px;" />
+			<img src="/img/news/cica.jpg" style="width:100%; max-width:720px;" />
 		</div>
 		<p class="news_body">Artists: Khalil Charif, Erik Deerly, Geepyo Han 한기표, Dasul Kim 김다슬, Inside The Silver Shell, Jonas Kasper Jensen, Karen Krolak, Francine LeClercq, Mariko Nakatani, Jenny Nguyen, 프로젝트 살 / Project Sal, Darija S. Radakovic<br/>
 			<a target="_blank" href="https://www.cicamuseum.com/">https://www.cicamuseum.com</a></p>
@@ -480,7 +569,7 @@ $description = '';
 	<article role="article" style="max-width:800px;">
 		<p class="news_title">Criticism at Work / Serbian Fine Arts 2 / Ostavinska / Belgrade / RS / June 2019</p>
 		<div class="news_img">
-			<iframe width="500" height="281" src="https://www.youtube.com/embed/YAx8Smq3eEw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			<iframe width="720" height="405" src="https://www.youtube.com/embed/YAx8Smq3eEw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 		</div>
 		<p class="news_body">Curated by B. Dimitrijević<br/>
 			Art critics: Jelena Vesić, Ješa Denegri, Katarina Kostandinović<br/>
@@ -491,7 +580,7 @@ $description = '';
 	<article role="article" style="max-width:800px;">
 		<p class="news_title">AIR4 / RAVNIKAR GALLERY SPACE / Ljubljana / SI / Jun-Aug 2019</p>
 		<div class="news_img">
-			<img src="/img/news/ravnikar.jpg" style="width:100%; max-width:500px;" />
+			<img src="/img/news/ravnikar.jpg" style="width:100%; max-width:720px;" />
 		</div>
 		<p class="news_body">Artists: Alejandra España Natera, Ana Popescu, Anita Kos, Anja Jelovšek, Atelier McClane, Beatrice Alici, Bisera Krckovska, Dajana Jurman Osip, Dalea Kovacec, Daniel Moreira, Danilo Stojanović, Dante BUU, Daria Tommasi, Darija S. Radaković, Davide Caldarini, Diogo Gonçalves, Dušan Stošić, Evgen Copi Gorišek, Federico Polloni, Fran Ortega, Francesco Poiana, Gašper Kunšic, Giulia Cabassi, Giulia Lanza, Giulio Bensasson, Helena Tahir, Isidora Krstić, Ivana Armanini, Ivana Bajec, Jaka Juhant, Jan Pogorelec, Jasmina Grudnik, Jelena Bando, Josipa Krolo, Julio Dolbeth, Kaja Urh, Katarina Jovicić, Lealudvik, Leon Zuodar, Lucijan Prelog, Luka Širok, Maja Babic Košir, Maja Kocjan, Maja Rožman, Maja Šimenc, Manolis Anastasakos, Manuel Fabris, Maria Karnar-Lemeschewa, Marko Stojanović, Maruša Štibelj, Matija Bobicić, Meta Šolar, Miha Perne, Milan Nešić, Mina Fina, Mogu Takahashi, Mojca Senegacnik, Monika Slemc, Nastja Mezek, Nebojša Adamovic, Nemanja Golijanin, Nevena Aleksovski, Nez Pez, Neža Perovšek, Nežka Zamar, Nina Celhar, Nina Šestanović, Oliver Pilić, Pedro Maia, Peter Ferlan, Peter Jeppson, Petra Korent, Philippine Marquier, Pri zlatem stegnu, Primož Zorko, Rade Tepavcević, Radovan Kunić, Rok Hudobivnik, Rok Mar, Romana Pehar, Saša Kerkoš, Simon Kocjancic, Sonja Jo, Staš Kleindienst, Suzana Brborovic, Tadija Janicić, Tanja Radež, Tara Rodić, Tea Kralj, There is time for everything, Tina Konec, Tjaša Cizej, Tjasa Rener, Urška Mazej, Urška Rednak, Veronika Hozjan, Vuk Ćuk, Zoran Pungercar<br/>
 			Curated by: Piera Ravnikar<br/>
@@ -501,7 +590,7 @@ $description = '';
 	<article role="article" style="max-width:800px;">
 		<p class="news_title">Auction from Zero / Culture Center Magacin / Belgrade / RS / June 2019</p>
 		<div class="news_img">
-			<img src="/img/news/od0.jpg" style="width:100%; max-width:500px;" />
+			<img src="/img/news/od0.jpg" style="width:100%; max-width:720px;" />
 		</div>
 		<p class="news_body">Artists: Dušan Rajić, Nina Ivanović, Vitorović Aleksa, Nadežda Kirćanski, Luka Cvetković, Siniša Ilić, Katarina Popović, Marija Knežević, Aleksandar Jevtić, Ivan Šuletić, Jelena Milić, Mirza Dedać, Mane Radmanović, Aleksandra Perović Mihajlović, Luka Knežević Strika, Aleksandar Todorović, Stefan Jovanović, Marija Strajnić, Milica Balubcić, Aleksandar Dimitrijević, Tina Danilović, Jovana Cajović, Gorana Bacevac, Jovana Jovanović, Milutin Marković, Nemanja Nikolić, Pop Mitić Darinka, Darija S. Radaković, Sofija Pašalić, Luka Cvetković, Nikola Dimitrović, Jovana Blagojević, Danilo Mimović, Fatkidbeny, Mina Pišcević, Miloš De Sko Cosović, Isidora Nikolić, Belgrade Raw<br/>
 			Honorable Mention 2019: Slaðana Petrović Varagić and Miroslav Karić<br/>
@@ -511,7 +600,7 @@ $description = '';
 	<article role="article" style="max-width:800px;">
 		<p class="news_title">Serbian Fine Arts 2 / Ostavinska Gallery / Belgrade / RS / May-Jun 2019</p>
 		<div class="news_img">
-			<img src="/img/news/srpske-lepe-umetnosti2.jpg" style="width:100%; max-width:500px;" />
+			<img src="/img/news/srpske-lepe-umetnosti2.jpg" style="width:100%; max-width:720px;" />
 		</div>
 		<p class="news_body">Artists: Siniša Ilić, Milorad Mladenović, Branislav Nikolić, Mice Poptsis, Milena Putnik, Darija Radaković, Milica Tomić, Ksenija Stevanović<br/>
 			Curated by: Branislav Dimitrijević<br/>
@@ -534,7 +623,7 @@ $description = '';
 	<article role="article" style="max-width:800px;">
 		<p class="news_title">Month of the Artist / Calgary Arts Development / CA / January 2019</p>
 		<div class="news_img">
-			<img src="/img/news/month.jpg" style="width:100%; max-width:500px;" />
+			<img src="/img/news/month.jpg" style="width:100%; max-width:720px;" />
 		</div>
 		<p class="news_body"><a target="_blank" href="https://calgaryartsdevelopment.com/month-of-the-artist/">https://calgaryartsdevelopment.com/month-of-the-artist</a></p>
 	</article>
@@ -542,7 +631,7 @@ $description = '';
 	<article role="article" style="max-width:800px;">
 		<p class="news_title">Black / Herringer Kiss Gallery / Calgary / CA / Jan-Feb 2019</p>
 		<div class="news_img">
-			<img src="/img/news/hk_black.jpg" style="width:100%; max-width:500px;" />
+			<img src="/img/news/hk_black.jpg" style="width:100%; max-width:720px;" />
 		</div>
 		<p class="news_body">Artists: Michael Davidson, Mario Trejo, Ken Webb, Dennis Ekstedt, Darija S. Radakovic, Angela Grossmann, Jason Frizzell, Blake Senini, Mara Korkola, Shelley Adler and Attila Richard Lukacs<br/>
 			Curated by: Deborah Herringer</p>
@@ -553,7 +642,7 @@ $description = '';
 	<article role="article" style="max-width:800px;">
 		<p class="news_title">For 1000 Dinars / Ostavinska Gallery / Belgrade / RS / December 2018</p>
 		<div class="news_img">
-			<img src="/img/news/cvrst_kurs.jpg" style="width:100%; max-width:500px;" />
+			<img src="/img/news/cvrst_kurs.jpg" style="width:100%; max-width:720px;" />
 		</div>
 		<p class="news_body">Artists: Irena Jevtović, Zoran Ilić, Jovana Braletić, Nikola Radosavljević, Darija S. Radaković, Nevena Vićentić, Adienn Ujhazi, Aleksandra Nikolić, Anamarija Marinković, Nemanja Milenković, Ana Paula Jelić, Stefan Ilić. Aleksa Spasić, Veljko Vujović, Izabela Mašić, Vladimir Sekulić, Milica Bilanović, Dunja Ožegović and Milan Savić<br/>
 			<a target="_blank" href="http://www.designed.rs/news/konkursna_izlozba_za_1000_dinara">http://www.designed.rs/news/konkursna_izlozba_za_1000_dinara</a></p>
@@ -562,7 +651,7 @@ $description = '';
 	<article role="article" style="max-width:800px;">
 		<p class="news_title">Either/Or / ODRON Collective Gallery / Sarajevo / BA / November 2018</p>
 		<div class="news_img">
-			<img src="/img/news/odron.jpg" style="width:100%; max-width:500px;" />
+			<img src="/img/news/odron.jpg" style="width:100%; max-width:720px;" />
 		</div>
 		<p class="news_body">Artists: Kristofer Andrić, Mia Bucan, Ehlimana Elma, Haris-Hator Feba, Alma Gacanin, Denis Haracić, Smirna Kulenović, Denial Keco, Nina Komel, Šejla Lajlani, Adna Muslija, Darija S. Radaković, Stefan Savić, Selma Selman, Bojan Stojcić, Selma Zimić<br/>
 			Curated by: Kasja Jerlagić</p>
@@ -581,10 +670,10 @@ $description = '';
 	<article role="article" style="max-width:800px;">
 		<p class="news_title">Space for Mistake / Ostavinska Gallery / Magacin u Kraljevića Marka / Belgrade / RS / September 2018</p>
 		<div class="news_img">
-			<img src="/img/news/mistake.jpg" style="width:100%; max-width:500px;" />
+			<img src="/img/news/mistake.jpg" style="width:100%; max-width:720px;" />
 		</div>
 		<div class="news_img">
-			<iframe width="500" height="281" src="https://www.youtube.com/embed/phKj7crwlpU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			<iframe width="720" height="405" src="https://www.youtube.com/embed/phKj7crwlpU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 		</div>
 		<p class="news_body">Artists: Mitar Stojković, Nadežda Kirćanski, Nemanja Milenković, Jovana Braletić, Nikola Radosavljević, Izabela Mašić, Adrienn Ujhazi, Jovan Jović, Ivan Despotović, Dajana Ho i Sinovi, Dragan Stojmenović, Zoran Ilić, Lamija Halilagić, Dunja Ožegović, Toni Kovacić, Darija S. Radaković, Gabrijela Nikolić, Marko Zavišić, Luka Licina, Mirza Dedać, Sonja Halilović, Marija Stanković, Lidija Antonović, Vanja Pašić, Miloš Peškir, Tijana Savatić, Edvina Hudeckova, Milena Kulić, Aleksandra Letić, Miljana Rajcić, Ivana Aranðelović, Ana Cerović, Darko Dacović, Sofija Modošanov, Katarina Marcetić, Vladimir Radivojević, Jana Stojaković and Mane Radmanović<br/>
 			Curated by: Stevan Vuković<br/>
@@ -594,7 +683,7 @@ $description = '';
 	<article role="article" style="max-width:800px;">
 		<p class="news_title">Art Residency / The Institut für Alles Mögliche Residency / Kabinett / Berlin / DE / August 2018</p>
 		<div class="news_img">
-			<img src="/img/news/kabinett.jpg" style="width:100%; max-width:500px;" />
+			<img src="/img/news/kabinett.jpg" style="width:100%; max-width:720px;" />
 		</div>
 		<p class="news_body">Artists: Denisse Griselda, Darija S. Radakovic, Ashley M. Freeby<br/>
 			<a target="_blank" href="https://www.i-a-m.tk/participants.html">https://www.i-a-m.tk/participants.html</a></p>

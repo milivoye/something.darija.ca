@@ -58,7 +58,7 @@ $description = '';
             <li><span>2022</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LOOK 2022, Contemporary Calgary, Calgary, CA</li>
             <li>2020 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;KUMA Kuma International Summer School "Art in Times of Crisis", Sarajevo, BA (invited but not attended)</li>
             <li><span>2020</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Esker’s ‘In Common’ series, online presentation, Esker Foundation, Calgary, CA</li>
-            <li><span>2020</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Reflector Gallery AIR, Uzice, RS <i>(upcoming)</i></li>
+            <!--li><span>2020</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Reflector Gallery AIR, Uzice, RS <i>(upcoming)</i></li-->
             <li>2018 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Institut für Alles Mögliche Residency, Berlin, DE</li>
             <li>2011 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CAAF / St[art] Residency, Calgary, CA</li>
             <li>2009 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Workshops with Street Art artists, Mark Jenkins and Blek le Rat during Belgrade&rsquo;s</li>
@@ -93,6 +93,10 @@ $description = '';
     <article role="article" style="max-width:800px;">
         <p><i>Selected Group Exhibitions</i></p>
         <ul>
+            <li>2025 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Hidden Third, Art Project Space, curated by Ana Frangovska and Niki Papaspirou, Athens, GR</li>
+            <li>2024 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;By the Means at Hand, a project by Vlatka Horvat for the Croatian Pavilion at the 60th International Art </li>
+            <li> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Exhibition - La Biennale di Venezia, Curated by Antonia Majaca, Venice, IT</li>
+            <li><span>2024</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Human Capital, Kenderdine Art Gallery, curated by Tak Pham, Saskatoon, CA</li>
             <li>2023 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Što te nema, Manifesto Gallery, curated by Adna Muslija i Aida Sehović, Sarajevo, BA</li>
             <li><span>2023</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Give Up the Weapon, Ostavinska, curated by Ivona Fregl, Belgrade, RS</li>
             <li><span>2023</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Feminist Duration Reading Group, Cell Project Space, curated by Lina Džuverović, London, UK</li>
@@ -106,7 +110,7 @@ $description = '';
             <li>2021 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ups and Downs, Highs and Lows... and the Forgotten, CZKD, Belgrade, RS</li>
             <li><span>2021</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Misplaced Women, retrospective exhibition by Tanja Ostojić, KCB, NGVU, CZKD, Beograd, RS</li>
             <li><span>2021</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Email Art: Inner Mobility, Udruga RADAR, MKC - Multimedia Culture Centre, Split, HR</li>
-            <li>2020 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Flatbed Pictures, Herringer Kiss Gallery, Calgary, CA <i>(upcoming)</i></li>
+            <li>2020 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Flatbed Pictures, Herringer Kiss Gallery, Calgary, CA</li>
             <li><span>2020</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Age of Renewal, Reflector Gallery, Užice, RS</li>
             <li><span>2020</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Where Does the Future Begin?, ULUS Spring Exhibition, Pavilion Cvijeta Zuzorić, Belgrade, RS</li>
             <li><span>2020</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LOOK2020, Contemporary Calgary, Calgary, CA</li>
@@ -141,6 +145,7 @@ $description = '';
             <li><span>2013</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bacon: The King of Cured Meats, House Gallery, Calgary, CA</li>
             <li>2012 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Different World, KEF 13, Belgrade, RS</li>
             <li>2010 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Traditional and Modern, Military Museum, Belgrade, RS</li>
+            <!--
             <li>2009 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Erotic in Politics, Museum Night, Art Clinic, Novi Sad, RS</li>
             <li><span>2009</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Spring Exhibition, Art Pavilion Cvjeta Zuzorić, Belgrade, RS</li>
             <li><span>2009</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tea for Two, Zepter International Design Award, Milano, IT</li>
@@ -150,6 +155,7 @@ $description = '';
             <li><span>2007</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Collage/Assemblage, Dura Jakšić House, Skadarlija, Beograd, RS</li>
             <li>2005 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;VIII International Biennial of Miniature Art, Gornji Milanovac, RS</li>
             <li>2002 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Zemun Salon, Old Port Gallery, Zemun, RS</li>
+            -->
         </ul>
     </article>
 

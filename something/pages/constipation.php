@@ -31,10 +31,10 @@ $gallery = array();
         Since this piece is inspired, and in some way is the continuation of Piero Manzoni's piece Artist's Shit, in which each can is labeled as 
         containing 30 grams of artist's excrement priced its net weight worth in gold at the time, therefore following the same logic, Artist's 
         Constipation is priceless.<br/>
-        The text on the labels is printed in French, German, Italian and English.<br/>
+        The text on the labels is printed in French, German, Italian and English.<!--<br/>
         <br/>
         DISCLAIMER: This work was not supported by any institutional power structure that claims to support artists in their growth and production of shit.<br/>
-        With that being said, special thanks go to Calgary Arts Development.
+        With that being said, special thanks go to Calgary Arts Development.-->
     </p>
 
     </article>

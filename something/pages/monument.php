@@ -47,5 +47,6 @@ $gallery = array();
 		    <img src="/img/monument/m3.jpg" data-w="1917" data-h="963" alt="" />
 		    <img src="/img/monument/m5.jpg" data-w="1919" data-h="964" alt="" />
 		    <img src="/img/monument/m6.jpg" data-w="2048" data-h="1358" alt="" />
+		    <img src="/img/monument/m9.jpg" data-w="1200" data-h="1600" alt="" />
 	    </div>
     </aside>

@@ -6,20 +6,21 @@ if ((strtolower($_SERVER['HTTP_HOST']) == 'something.darija.ca') || (strtolower(
 }
 
 $works = array();
-	$works[] = array('/constipation/', 'Artist\'s Constipation');
-	$works[] = array('/i_krivi_i_duzni/', 'I krivi i dužni');
-	$works[] = array('/monument/', 'Monument');
 	$works[] = array('/tired/', 'Tired');
 	$works[] = array('/lets_get_lost/', 'Let\'s Get Lost');
+	$works[] = array('/two_perspectives/', 'Two Perspectives');
+	$works[] = array('/constipation/', 'Artist\'s Constipation');
+	$works[] = array('/nude/', 'Nude Descending a Staircase');
+	$works[] = array('/i_krivi_i_duzni/', 'I krivi i dužni');
+	$works[] = array('/monument/', 'Monument');
 	$works[] = array('/minimal_consensus/', 'Minimal Consensus');
 	$works[] = array('/you_dont_have_to_be_right/', 'You Don\'t Have to Be Right');
-	$works[] = array('/two_perspectives/', 'Two Perspectives');
 	$works[] = array('/facing_self-isolation/', 'm³');
 	$works[] = array('/god_bless/', 'God Bless');
 	$works[] = array('/misplaced_woman/', 'Misplaced Woman');
 	//$works[] = array('/i_miss_yu/', 'I Miss YU');
 	$works[] = array('/wake_me_up/', 'Wake Me Up in Yugoslavia');
-	//$works[] = array('/ethnically_clean_linen/', 'Ethnically Clean Linen');
+	$works[] = array('/ethnically_clean_linen/', 'Ethnically Clean Linen');
 	$works[] = array('/social_justice/', 'Social Justice');
 	$works[] = array('/oh_nothing/', 'Oh, Nothing!');
 	$works[] = array('/my_way/', 'My Way');
