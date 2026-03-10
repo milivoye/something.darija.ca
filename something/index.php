@@ -6,13 +6,15 @@ if ((strtolower($_SERVER['HTTP_HOST']) == 'something.darija.ca') || (strtolower(
 }
 
 $works = array();
-	$works[] = array('/tired/', 'Tired');
+	//$works[] = array('/tired/', 'Tired');
+	$works[] = array('/warning/', 'Warning');
 	$works[] = array('/lets_get_lost/', 'Let\'s Get Lost');
 	$works[] = array('/two_perspectives/', 'Two Perspectives');
 	$works[] = array('/constipation/', 'Artist\'s Constipation');
 	$works[] = array('/nude/', 'Nude Descending a Staircase');
 	$works[] = array('/i_krivi_i_duzni/', 'I krivi i dužni');
 	$works[] = array('/monument/', 'Monument');
+	$works[] = array('/housecoat/', 'Housecoat');
 	$works[] = array('/minimal_consensus/', 'Minimal Consensus');
 	$works[] = array('/you_dont_have_to_be_right/', 'You Don\'t Have to Be Right');
 	$works[] = array('/facing_self-isolation/', 'm³');

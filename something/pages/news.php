@@ -15,7 +15,67 @@ $description = '';
 
 	<div class="article_single year">News</div>
 
+<div class="article_single year">2026</div>
+
+<article role="article" style="max-width:800px;">
+	<p class="news_title">UPCOMING: Bienal Posverso 2026 / Buenos Aires / AR / Aug-Oct 2026</p>
+	<div class="news_img">
+		<img src="/img/news/posverso26.jpg" style="width:100%; max-width:720px;" />
+	</div>
+	<p class="news_body">
+		Under the title "Of Enchantment and Horror", the central proposal of POSVERSO 2026 is to rethink humanity, starting with the recovery of its ties to pre-scientific and pre-capitalist forms of knowledge. In the current stage of the Anthropocene, marked by dystopia and the exhaustion of the capitalist system, turning to multiple incarnations of art and poetry constitutes a tactical movement, the meaning of which lies in the concrete possibility of exploring modes of dissent.<br/>
+		Curated by Silvio De Gracia and Ana Montenegro, accompanied by a team of co-curators consisting of Claudia Kozak, Soledad Sánchez Goldar, Alex Zuy, Yuri Bruscky and Michael Hurtado<br/>
+		Artists: Diego Alberti, Esteban Alvarez, Aurapoesíavisual, Fernando Baena, Pedro Bericat, Virginia Buitrón, Antonio Caro, Colectivo La Porfía, Marilá Dardot, Andrés Denegri, Mounir Fatmi, Anna Gimein, Soledad Sánchez Goldar, Michael Hurtado, Enrique Jezik, Carlos Macheratti, Ruggero Maggi, Maurizio Mancioli, Ale Montiel, Simone Moraes, Teresa Pereda, Luciano Pozo, Darija S. Radakovic, Silvia Rivas, Daniel Sarobe, Santiago Sierra, Saulo Szabó, Silvina Torviso and Edgar Ulisses.<br/>
+		<a target="_blank" href="https://artfacts.net/exhibition/bienal-posverso-2026-of-enchantment-and-horror-posverso-bienal-buenos-aires-2026">https://artfacts.net/exhibition/bienal-posverso-2026-of-enchantment-and-horror-posverso-bienal-buenos-aires-2026</a></p>
+</article>
+
+<article role="article" style="max-width:800px;">
+	<p class="news_title">Fluxus.Gram / Cabaret Voltaire / Zürich / CH / February 2026</p>
+	<div class="news_img">
+		<img src="/img/news/fluxus-gram.png" style="width:100%; max-width:720px;" />
+	</div>
+	<p class="news_body">
+		Artists: Ai Weiwei, Eric Anderson, Leire Aranberri, Ay-O, loanna Bachmann, Robert Barry, Blind Art Collective, Dineo Seshee Bopape, George Brecht, StanleyBrouwn, John Cage, Paul Chan, Jura, Chicago, Com&Com, Megan Cope, Olafur Eliasson, Ken Friedman, Gang Group, Felix Gonzalez-Torres, Douglas Gordon, Marlon Griffith, Nathan Gruno, Ana Halprin, Johannes M. Hedinger, Dick Higgins, Hanna B. Hailing, Miranda July & Harrell Fletcher, Joan Jonas, Steve Kaltenbach, Allan Kaprow, lrini Karavouzis, Flora Karetka & Elsa Cailletaud, Christine Sun Kim, Bengt af Klintberg, Milan Knilak, Alison Knowles, Takehisa Kosugi, Shigeko Kubota, Barbara Lubliner, George Maciunas, Pritam Mitra, Basile Mudry, Lino Muff, Bruce Nauman, Ernesto Neto, Ann Noel, Yoko Ono, Julien Paccard, Nam June Paik, Benjamin Patterson, Ayumi Paul, Niels Poiz, Pedro Reyes, Ugo Rondinone, Takako Saito, Eszter Salamon, Grgur Savio, Nicholas Scharer, Mieko Shiomi, Sneila, Daniela Solis, Liliana Torres Eaquivias, Ben Vautier, Robert Watts, Yannick Wey, Erwin Wurm, La Monte Ong, Mingyue Zhang, and others<br/>
+		<a target="_blank" href="https://activatingfluxus.com/fluxus-gram-event-exhibition-program/">https://activatingfluxus.com/fluxus-gram-event-exhibition-program/</a></p>
+</article>
+
+<article role="article" style="max-width:800px;">
+	<p class="news_title">Politics of Appearance / WUK - WSB Studio / Vienna / AT / February 2026</p>
+	<div class="news_img">
+		<img src="/img/news/wuk.webp" style="width:100%; max-width:720px;" />
+	</div>
+	<p class="news_body">
+		Opening: Wednesday, 11 February 2026 at 6 pm, Währinger Straße 59, 1090 Vienna, Austria<br/>
+		Curated by Ilari Valbonesi<br/>
+		Organizational partnership: Julia Fromm<br/>
+		Artists: Nicolas Dolzer, Julia Fromm, Dženan Hadžihasanović, Adela Jušić, Natia Kalandadze, Annalisa Macagnino, Gwendolin Meta, Shiva Pishgahi, Luigi Puxeddu, Darija S. Radaković, Gert Resinger, Fiona Rukschcio, Sigga Björg Sigurðardóttir, Daria Savytska, Jakob Liu Wächter de Zordo<br/>
+		<a target="_blank" href="https://www.wuk.at/programm/politics-of-appearance/">https://www.wuk.at/programm/politics-of-appearance/</a></p>
+</article>
+
 <div class="article_single year">2025</div>
+
+<article role="article" style="max-width:800px;">
+	<p class="news_title">The Hidden Third / National Gallery of Macedonia — Mala Stanica / October 2025</p>
+	<div class="news_img">
+		<img src="/img/news/ngnm2025.jpg" style="width:100%; max-width:720px;" />
+	</div>
+	<p class="news_body">
+		Curated by Ana Frangovska and Niki Papaspirou<br/>
+		Artists: Slobodanka Stupar, Anica Vucetic, Darija S. Radakovic, Annita Argyroiliopoulou, Efi Fouriki, Katerina Evagelakou, Monika Moteska, Vana Urosevic, Dijana Tomic, Slavica Janeshlieva, Klitsa Antoniou, Marina Kessanidou, Elina Ioannou<br/>
+		<a target="_blank" href="https://nationalgallery.mk/the-hidden-third-trapped-between-absence-and-presence/?lang=en">https://nationalgallery.mk/the-hidden-third-trapped-between-absence-and-presence/</a></p>
+</article>
+
+<article role="article" style="max-width:800px;">
+	<p class="news_title">International Biennale of Visual Arts SUBDOKUMENTA / Sarajevo / BA / September 2025</p>
+	<div class="news_img">
+		<img src="/img/news/subdoc25.png" style="width:100%; max-width:720px;" />
+	</div>
+	<p class="news_body">
+		SubDokumenta Sarajevo 2025 will showcase works by over 90 renowned and acclaimed artists from Bosnia and Herzegovina, the region, and the world. This event represents the historical continuity of the iconic YU Dokumenta biennale from the 1980s, as well as the two decades of activity by the Charlama Depot gallery.<br/>
+		Curated by Jusuf Hadžifejzović<br/>
+		Artists: Marina Abramović, Noor Abed, Basma al-Sharif, Ambrosija, Ljiljana Arsić, Mrðan Bajić, Rafet Jonuzi Bardh-I-T, Vinko Barić, Gildo Bavcević, Kemil Begtaši, Irma Beširević, Isidora Branković, Mladen Bundalo, Elena C, Mimmo Catania, Claudia Chaseling, Damir Carli Cargonja, Benjamin Cengić, Mirza Cizmić, Danica Dakić, Dawud Dana, Tajana Dedić Starović, Vlasta Delimar, Juraj Dobrović, Dženat Dreković, Goran Ðorðević, Dado Ðurić, Uroš Ðurić, Mohammed El Mourid, Marko Francesević, Alma Gacanin, Renate Graf, Zoran Grebenarović, Igor Grubić, Jusuf Hadžifejzović, Zlatan Hadžifejzović, Mirsad Hadžikarić, Lamija Halilagić, Nela Hasanbegović, Amel Hodžić, Pang Hyo-sung, Bora Iljovski, Irwin, Josip Ivancić, Nina Ivancić, Mirsad Jažić, Kasja Jerlagić, Dean Jokanovic Toumin, Ismet Jonuzi, Dorian Jovanović, Nikica Jurković, Alija Kamber, Šejla Kamerić, Narcis Kantardžić, Emir Kapetanović, Jae-Kwan Kim, Nina Komel, Miklavž Komelj, Milomir Strašni Kovacević, Ivan Kožarić, Danilo Kreso, Rade Kundacina, Sanja Latinović, Fikret Libovac, Eun Su Lim, Glorija Lizde, Destil Marković, Patrick Marshall, Vlado Martek (b2), Dalibor Martinis, Ivica Matić, Metahaven grupa, Kata Mijatović, Danijela Mijić, Radenko Milak, Slobodan Era Milivojević, Mladen Miljanović, Ognjen Milošević, Hamzalija Muhić, Alban Muja, Genc Mulliqi, Goce Nanevski, Dorotej Neskovski, Damir Nikšić, Edin Numankadić, Sage O'Tuama, Pinar Ogrenci, Nusret Pašić, Vanja Pagar, Milija Pavićević, Zoran Pavelić, Stanislava Pinchuk, Mileta Prodanović, Ivana Radovanović, Ismet Ramicević, Andrej Savski, Selma Selman, Damir Roko Sokić, Mladen Stilinović, Sven Stilinović, Bojan Stojcić, Gabrijel Stupica, Adnan Šopović, Ilija Šoškić, Mladen Talanga, Andrej Tišma, Saša Tkacenko, Saša Tkacenko, Slaven Tolj, Nikola Tomić, Miloš Trakilović, Selman Trtovac, Dragomir Ugren, Žaneta Vangeli, Vladimirka Velaga, Slobodan Vidović, Almin Zrno, Marko Marković, Darija S. Radaković.<br/>
+		<a target="_blank" href="https://depo.ba/clanak/276027/">https://depo.ba/clanak/276027/</a></p>
+</article>
 
 <article role="article" style="max-width:800px;">
 	<p class="news_title">Being Political / CZKD / Beograd / RS / Jun-Oct 2025</p>
@@ -113,7 +173,7 @@ $description = '';
 		<img src="/img/news/benefit.png" style="width:100%;" />
 	</div>
 	<p class="news_body">
-		Artists: Adela Jušić, Adna Muslija, Adnan Suljkanović, Adnan Šopović, Aida Šehović, Alma Gačanin, Amel Bešlagić, Amina Ahmetagić, Amina Horozić, Armin Durgut, Arnela Mahmutović, Benjamin Cengić, Bojan Stojcić, Darija Radaković, Enes Žuljević, Enrico Dagnino, Haris Gusinac, Ismar Cirkinagić, Jelena Fuzinato, José Antonio Sánchez Manzano, Kasja Jerlagić, Kemil Bekteši, Lala Rašcić, Mehmed Mahmutović, Mila Panić, Paul Lowe, Saša Tatić, Šejla Kamerić, Velma Babić, Ziyah Gafić<br/>
+		Artists: Adela Jušić, Adna Muslija, Adnan Suljkanović, Adnan Šopović, Aida Šehović, Alma Gacanin, Amel Bešlagić, Amina Ahmetagić, Amina Horozić, Armin Durgut, Arnela Mahmutović, Benjamin Cengić, Bojan Stojcić, Darija Radaković, Enes Žuljević, Enrico Dagnino, Haris Gusinac, Ismar Cirkinagić, Jelena Fuzinato, José Antonio Sánchez Manzano, Kasja Jerlagić, Kemil Bekteši, Lala Rašcić, Mehmed Mahmutović, Mila Panić, Paul Lowe, Saša Tatić, Šejla Kamerić, Velma Babić, Ziyah Gafić<br/>
 		<a target="_blank" href="https://www.manifesto.gallery/benefit-art-auction">https://www.manifesto.gallery/benefit-art-auction</a></p>
 </article>
 

@@ -4,7 +4,7 @@ $description = '';
 
 $rowHeight = 640;
 $gallery = array();
-	$gallery[] = array(1920, 1080, 'warning/matrix_ost.jpg', '');
+	$gallery[] = array(1024, 1600, 'warning/matrix_ost.jpg', '');
 ?>
 <?php include $_SERVER['DOCUMENT_ROOT'] . "/inc/_header.php"; ?>
 <?php include $_SERVER['DOCUMENT_ROOT'] . "/inc/_navigation.php"; ?>
